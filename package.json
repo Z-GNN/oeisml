@@ -11,8 +11,10 @@
     "deploy-attention": "node scripts/deploy-ecan-attention.js",
     "integrate-agents": "node scripts/integrate-agent-zero.js",
     "sync-atomspace": "node scripts/sync-atomspace.js",
+    "create-phase-issues": "node scripts/create-phase-issues.js",
     "test": "jest",
     "test:cognitive": "jest --testPathPattern=cognitive",
+    "test:phase-issues": "jest --testPathPattern=phase-issues",
     "docs": "node scripts/generate-architecture-docs.js",
     "build": "npm run analyze && npm run tensorize && npm run orchestrate",
     "dev": "nodemon src/index.js"

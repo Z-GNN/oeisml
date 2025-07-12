@@ -105,6 +105,882 @@
     ],
     "name": "A000010 Euler totient function phi(n): count numbers <= n and prime to n."
   },
+  "A000011": {
+    "complexity": 40,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000011 Number of n-bead necklaces (turning over is allowed) where complements are equivalent."
+  },
+  "A000012": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000012 The simplest sequence of positive numbers: the all 1's sequence."
+  },
+  "A000013": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000013 Definition (1): Number of n-bead binary necklaces with beads of 2 colors where the colors may be swapped but turning over is not allowed."
+  },
+  "A000014": {
+    "complexity": 38,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000014 Number of series-reduced trees with n nodes."
+  },
+  "A000015": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A000015 Smallest prime power >= n."
+  },
+  "A000016": {
+    "complexity": 48,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000016 a(n) is the number of distinct (infinite) output sequences from binary n-stage shift register which feeds back the complement of the last stage."
+  },
+  "A000017": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000017 Erroneous version of A032522."
+  },
+  "A000018": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000018 Number of positive integers <= 2^n of form x^2 + 16*y^2."
+  },
+  "A000019": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000019 Number of primitive permutation groups of degree n."
+  },
+  "A000020": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000020 Number of primitive polynomials of degree n over GF(2) (version 2)."
+  },
+  "A000021": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000021 Number of positive integers <= 2^n of form x^2 + 12 y^2."
+  },
+  "A000022": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000022 Number of centered hydrocarbons with n atoms."
+  },
+  "A000023": {
+    "complexity": 57,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000023 Expansion of e.g.f. exp(-2*x)/(1-x)."
+  },
+  "A000024": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000024 Number of positive integers <= 2^n of form x^2 + 10 y^2."
+  },
+  "A000025": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000025 Coefficients of the 3rd-order mock theta function f(q)."
+  },
+  "A000026": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000026 Mosaic numbers or multiplicative projection of n: if n = Product (p_j^k_j) then a(n) = Product (p_j * k_j)."
+  },
+  "A000027": {
+    "complexity": 55,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000027 The positive integers. Also called the natural numbers, the whole numbers or the counting numbers, but these terms are ambiguous."
+  },
+  "A000028": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A000028 Let k = p_1^e_1 p_2^e_2 p_3^e_3 ... be the prime factorization of n. Sequence gives k such that the sum of the numbers of 1's in the binary expansions of e_1, e_2, e_3, ... is odd."
+  },
+  "A000029": {
+    "complexity": 39,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000029 Number of necklaces with n beads of 2 colors, allowing turning over (these are also called bracelets)."
+  },
+  "A000030": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000030 Initial digit of n."
+  },
+  "A000031": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000031 Number of n-bead necklaces with 2 colors when turning over is not allowed; also number of output sequences from a simple n-stage cycling shift register; also number of binary irreducible polynomials whose degree divides n."
+  },
+  "A000032": {
+    "complexity": 82,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000032 Lucas numbers beginning at 2: L(n) = L(n-1) + L(n-2), L(0) = 2, L(1) = 1."
+  },
+  "A000033": {
+    "complexity": 56,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000033 Coefficients of ménage hit polynomials."
+  },
+  "A000034": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000034 Period 2: repeat [1, 2]; a(n) = 1 + (n mod 2)."
+  },
+  "A000035": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000035 Period 2: repeat [0, 1]; a(n) = n mod 2; parity of n."
+  },
+  "A000036": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000036 Let A(n) = #{(i,j): i^2 + j^2 <= n}, V(n) = Pi*n, P(n) = A(n) - V(n); A000099 gives values of n where |P(n)| sets a new record; sequence gives closest integer to P(A000099(n))."
+  },
+  "A000037": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000037 Numbers that are not squares (or, the nonsquares)."
+  },
+  "A000038": {
+    "complexity": 9,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000038 Twice A000007."
+  },
+  "A000039": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000039 Coefficient of q^(2n) in the series expansion of Ramanujan's mock theta function f(q)."
+  },
+  "A000040": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization",
+      "algebraic_structure",
+      "symmetry",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000040 The prime numbers."
+  },
+  "A000041": {
+    "complexity": 92,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000041 a(n) is the number of partitions of n (the partition numbers)."
+  },
+  "A000042": {
+    "complexity": 56,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000042 Unary representation of natural numbers."
+  },
+  "A000043": {
+    "complexity": 53,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000043 Mersenne exponents: primes p such that 2^p - 1 is prime. Then 2^p - 1 is called a Mersenne prime."
+  },
+  "A000044": {
+    "complexity": 36,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "recursion",
+      "golden_ratio"
+    ],
+    "name": "A000044 Dying rabbits: a(0) = 1; for 1 <= n <= 12, a(n) = Fibonacci(n); for n >= 13, a(n) = a(n-1) + a(n-2) - a(n-13)."
+  },
+  "A000045": {
+    "complexity": 191,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "recursion",
+      "golden_ratio",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000045 Fibonacci numbers: F(n) = F(n-1) + F(n-2) with F(0) = 0 and F(1) = 1."
+  },
+  "A000046": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000046 Number of primitive n-bead necklaces (turning over is allowed) where complements are equivalent."
+  },
+  "A000047": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000047 Number of integers <= 2^n of form x^2 - 2y^2."
+  },
+  "A000048": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000048 Number of n-bead necklaces with beads of 2 colors and primitive period n, when turning over is not allowed but the two colors can be interchanged."
+  },
+  "A000049": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000049 Number of positive integers <= 2^n of the form 3*x^2 + 4*y^2."
+  },
+  "A000050": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000050 Number of positive integers <= 2^n of form x^2 + y^2."
+  },
+  "A000051": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000051 a(n) = 2^n + 1."
+  },
+  "A000052": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000052 1-digit numbers arranged in alphabetical order, then the 2-digit numbers arranged in alphabetical order, then the 3-digit numbers, etc."
+  },
+  "A000053": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000053 Local stops on New York City 1 Train (Broadway-7 Avenue Local) subway."
+  },
+  "A000054": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000054 Local stops on New York City A line subway."
+  },
+  "A000055": {
+    "complexity": 60,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000055 Number of trees with n unlabeled nodes."
+  },
+  "A000056": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A000056 Order of the group SL(2,Z_n)."
+  },
+  "A000057": {
+    "complexity": 25,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization",
+      "recursion",
+      "golden_ratio"
+    ],
+    "name": "A000057 Primes dividing all Fibonacci sequences."
+  },
+  "A000058": {
+    "complexity": 91,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000058 Sylvester's sequence: a(n+1) = a(n)^2 - a(n) + 1, with a(0) = 2."
+  },
+  "A000059": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A000059 Numbers k such that (2k)^4 + 1 is prime."
+  },
+  "A000060": {
+    "complexity": 52,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000060 Number of signed trees with n nodes."
+  },
+  "A000061": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000061 Generalized tangent numbers d(n,1)."
+  },
+  "A000062": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000062 A Beatty sequence: a(n) = floor(n/(e-2))."
+  },
+  "A000063": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000063 Symmetrical dissections of an n-gon."
+  },
+  "A000064": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000064 Partial sums of (unordered) ways of making change for n cents using coins of 1, 2, 5, 10 cents."
+  },
+  "A000065": {
+    "complexity": 27,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000065 -1 + number of partitions of n."
+  },
+  "A000066": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000066 Smallest number of vertices in trivalent graph with girth (shortest cycle) = n."
+  },
+  "A000067": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000067 Number of positive integers <= 2^n of form x^2 + 2 y^2."
+  },
+  "A000068": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A000068 Numbers k such that k^4 + 1 is prime."
+  },
+  "A000069": {
+    "complexity": 30,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000069 Odious numbers: numbers with an odd number of 1's in their binary expansion."
+  },
+  "A000070": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A000070 a(n) = Sum_{k=0..n} p(k) where p(k) = number of partitions of k (A000041)."
+  },
+  "A000071": {
+    "complexity": 57,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "recursion",
+      "golden_ratio",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A000071 a(n) = Fibonacci(n) - 1."
+  },
+  "A000072": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000072 Number of positive integers <= 2^n of form x^2 + 4 y^2."
+  },
+  "A000073": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000073 Tribonacci numbers: a(n) = a(n-1) + a(n-2) + a(n-3) for n >= 3 with a(0) = a(1) = 0 and a(2) = 1."
+  },
+  "A000074": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000074 Number of odd integers <= 2^n of form x^2 + y^2."
+  },
+  "A000075": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000075 Number of positive integers <= 2^n of form 2 x^2 + 3 y^2."
+  },
+  "A000076": {
+    "complexity": 36,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000076 Number of integers <= 2^n of form 4 x^2 + 4 x y + 5 y^2."
+  },
+  "A000077": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000077 Number of positive integers <= 2^n of form x^2 + 6 y^2."
+  },
+  "A000078": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000078 Tetranacci numbers: a(n) = a(n-1) + a(n-2) + a(n-3) + a(n-4) for n >= 4 with a(0) = a(1) = a(2) = 0 and a(3) = 1."
+  },
+  "A000079": {
+    "complexity": 96,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000079 Powers of 2: a(n) = 2^n."
+  },
+  "A000080": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000080 Number of nonisomorphic minimal triangle graphs."
+  },
+  "A000081": {
+    "complexity": 56,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000081 Number of unlabeled rooted trees with n nodes (or connected functions with a fixed point)."
+  },
+  "A000082": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000082 a(n) = n^2*Product_{p|n} (1 + 1/p)."
+  },
+  "A000083": {
+    "complexity": 44,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000083 Number of mixed Husimi trees with n nodes; or polygonal cacti with bridges."
+  },
+  "A000084": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000084 Number of series-parallel networks with n unlabeled edges. Also called yoke-chains by Cayley and MacMahon."
+  },
+  "A000085": {
+    "complexity": 87,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A000085 Number of self-inverse permutations on n letters, also known as involutions; number of standard Young tableaux with n cells."
+  },
+  "A000086": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000086 Number of solutions to x^2 - x + 1 == 0 (mod n)."
+  },
+  "A000087": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000087 Number of unrooted nonseparable planar maps with n edges and a distinguished face."
+  },
+  "A000088": {
+    "complexity": 114,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000088 Number of simple graphs on n unlabeled nodes."
+  },
+  "A000089": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000089 Number of solutions to x^2 + 1 == 0 (mod n)."
+  },
+  "A000090": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A000090 Expansion of e.g.f. exp((-x^3)/3)/(1-x)."
+  },
+  "A000091": {
+    "complexity": 10,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000091 Multiplicative with a(2^e) = 2 for k >= 1; a(3) = 2, a(3^e) = 0 for k >= 2; a(p^e) = 0 if p > 3 and p == -1 (mod 3); a(p^e) = 2 if p > 3 and p == 1 (mod 3)."
+  },
+  "A000092": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000092 Let A(n) = #{(i,j,k): i^2 + j^2 + k^2 <= n}, V(n) = (4/3)Pi*n^(3/2), P(n) = A(n) - V(n); sequence gives values of n where |P(n)| sets a new record."
+  },
+  "A000093": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000093 a(n) = floor(n^(3/2))."
+  },
+  "A000094": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000094 Number of trees of diameter 4."
+  },
+  "A000095": {
+    "complexity": 9,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000095 Number of fixed points of GAMMA_0 (n) of type i."
+  },
+  "A000096": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000096 a(n) = n*(n+3)/2."
+  },
+  "A000097": {
+    "complexity": 31,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000097 Number of partitions of n if there are two kinds of 1's and two kinds of 2's."
+  },
+  "A000098": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000098 Number of partitions of n if there are two kinds of 1, two kinds of 2 and two kinds of 3."
+  },
+  "A000099": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000099 Let A(n) = #{(i,j): i^2 + j^2 <= n}, V(n) = Pi*n, P(n) = A(n) - V(n); sequence gives values of n where |P(n)| sets a new record."
+  },
+  "A000100": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000100 a(n) is the number of compositions of n in which the maximal part is 3."
+  },
   "A001000": {
     "complexity": 45,
     "dimensions": [
@@ -199,6 +1075,852 @@
     ],
     "name": "A001009 Triangle giving number L(n,k) of normalized k X n Latin rectangles."
   },
+  "A001010": {
+    "complexity": 31,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001010 Number of symmetric foldings of a strip of n stamps."
+  },
+  "A001011": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001011 Number of ways to fold a strip of n blank stamps."
+  },
+  "A001012": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001012 Erroneous version of A040082."
+  },
+  "A001013": {
+    "complexity": 25,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A001013 Jordan-Polya numbers: products of factorial numbers A000142."
+  },
+  "A001014": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A001014 Sixth powers: a(n) = n^6."
+  },
+  "A001015": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001015 Seventh powers: a(n) = n^7."
+  },
+  "A001016": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001016 Eighth powers: a(n) = n^8."
+  },
+  "A001017": {
+    "complexity": 39,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001017 Ninth powers: a(n) = n^9."
+  },
+  "A001018": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001018 Powers of 8: a(n) = 8^n."
+  },
+  "A001019": {
+    "complexity": 59,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001019 Powers of 9: a(n) = 9^n."
+  },
+  "A001020": {
+    "complexity": 59,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001020 Powers of 11: a(n) = 11^n."
+  },
+  "A001021": {
+    "complexity": 55,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001021 Powers of 12."
+  },
+  "A001022": {
+    "complexity": 64,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001022 Powers of 13."
+  },
+  "A001023": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001023 Powers of 14."
+  },
+  "A001024": {
+    "complexity": 68,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001024 Powers of 15."
+  },
+  "A001025": {
+    "complexity": 69,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001025 Powers of 16: a(n) = 16^n."
+  },
+  "A001026": {
+    "complexity": 69,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001026 Powers of 17."
+  },
+  "A001027": {
+    "complexity": 70,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001027 Powers of 18."
+  },
+  "A001028": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001028 E.g.f. satisfies A'(x) = 1 + A(A(x)), A(0)=0."
+  },
+  "A001029": {
+    "complexity": 71,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001029 Powers of 19."
+  },
+  "A001030": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001030 Fixed under 1 -> 21, 2 -> 211."
+  },
+  "A001031": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A001031 Goldbach conjecture: a(n) = number of decompositions of 2n into sum of two primes (counting 1 as a prime)."
+  },
+  "A001032": {
+    "complexity": 31,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001032 Numbers k such that sum of squares of k consecutive integers >= 1 is a square."
+  },
+  "A001033": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001033 Numbers n such that the sum of the squares of n consecutive positive odd numbers x^2 + (x+2)^2 + ... + (x+2n-2)^2 = k^2 for some integer k. The least values of x and k for each n are in A056131 and A056132, respectively."
+  },
+  "A001034": {
+    "complexity": 29,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A001034 Orders of noncyclic simple groups (without repetition)."
+  },
+  "A001035": {
+    "complexity": 112,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001035 Number of partially ordered sets (\"posets\") with n labeled elements (or labeled acyclic transitive digraphs)."
+  },
+  "A001036": {
+    "complexity": 31,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001036 Partial sums of A001037, omitting A001037(1)."
+  },
+  "A001037": {
+    "complexity": 56,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001037 Number of degree-n irreducible polynomials over GF(2); number of n-bead necklaces with beads of 2 colors when turning over is not allowed and with primitive period n; number of binary Lyndon words of length n."
+  },
+  "A001038": {
+    "complexity": 57,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001038 Invertible Boolean functions with GL(n,2) acting on the domain and range."
+  },
+  "A001039": {
+    "complexity": 78,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A001039 a(n) = (p^p-1)/(p-1) where p = prime(n)."
+  },
+  "A001040": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001040 a(n+1) = n*a(n) + a(n-1) with a(0)=0, a(1)=1."
+  },
+  "A001041": {
+    "complexity": 62,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A001041 a(0)=12; thereafter a(n) = 12 times the product of the first n primes."
+  },
+  "A001042": {
+    "complexity": 53,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001042 a(n) = a(n-1)^2 - a(n-2)^2."
+  },
+  "A001043": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A001043 Numbers that are the sum of 2 successive primes."
+  },
+  "A001044": {
+    "complexity": 89,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001044 a(n) = (n!)^2."
+  },
+  "A001045": {
+    "complexity": 127,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A001045 Jacobsthal sequence (or Jacobsthal numbers): a(n) = a(n-1) + 2*a(n-2), with a(0) = 0, a(1) = 1; also a(n) = nearest integer to 2^n/3."
+  },
+  "A001046": {
+    "complexity": 68,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001046 a(n) = n*(n-1)*a(n-1)/2 + a(n-2), a(0) = a(1) = 1."
+  },
+  "A001047": {
+    "complexity": 71,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001047 a(n) = 3^n - 2^n."
+  },
+  "A001048": {
+    "complexity": 66,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A001048 a(n) = n! + (n-1)!."
+  },
+  "A001049": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001049 Numbered stops in Manhattan on the Lexington Avenue subway."
+  },
+  "A001050": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001050 Number of letters in n (in Finnish)."
+  },
+  "A001051": {
+    "complexity": 11,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001051 Number of subgroups of order n in orthogonal group O(3)."
+  },
+  "A001052": {
+    "complexity": 68,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001052 a(n) = n*(n-1)*a(n-1)/2 + a(n-2), a(0) = 1, a(1) = 2."
+  },
+  "A001053": {
+    "complexity": 62,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001053 a(n+1) = n*a(n) + a(n-1) with a(0)=1, a(1)=0."
+  },
+  "A001054": {
+    "complexity": 77,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001054 a(n) = a(n-1)*a(n-2) - 1."
+  },
+  "A001055": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001055 The multiplicative partition function: number of ways of factoring n with all factors greater than 1 (a(1) = 1 by convention)."
+  },
+  "A001056": {
+    "complexity": 197,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001056 a(n) = a(n-1)*a(n-2) + 1, a(0) = 1, a(1) = 3."
+  },
+  "A001057": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A001057 Canonical enumeration of integers: interleaved positive and negative integers with zero prepended."
+  },
+  "A001058": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001058 1-digit numbers in reverse alphabetical order, then 2-digit numbers, etc."
+  },
+  "A001059": {
+    "complexity": 76,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001059 Number of doubly labeled heap-ordered trees."
+  },
+  "A001060": {
+    "complexity": 39,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001060 a(n) = a(n-1) + a(n-2) with a(0)=2, a(1)=5. Sometimes called the Evangelist Sequence."
+  },
+  "A001061": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001061 1-, 2-, 3-, ... digit numbers in alphabetical order in German."
+  },
+  "A001062": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001062 1-, 2-, 3- ... digit numbers in alphabetical order in French (incorrect version, see A187876 for the correct version)."
+  },
+  "A001063": {
+    "complexity": 68,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001063 E.g.f. satisfies A'(x) = A(x/(1-x))."
+  },
+  "A001064": {
+    "complexity": 100,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001064 a(n) = a(n-1)*a(n-2) + a(n-3)."
+  },
+  "A001065": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001065 Sum of proper divisors (or aliquot parts) of n: sum of divisors of n that are less than n."
+  },
+  "A001066": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001066 Dimensions (sorted, with duplicates removed) of real simple Lie algebras."
+  },
+  "A001067": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A001067 Numerator of Bernoulli(2*n)/(2*n)."
+  },
+  "A001068": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001068 a(n) = floor(5*n/4), numbers that are congruent to {0, 1, 2, 3} mod 5."
+  },
+  "A001069": {
+    "complexity": 10,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001069 Log2*(n) (version 2): take log_2 of n this many times to get a number < 2."
+  },
+  "A001070": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001070 Number of normalized Latin squares with second row even."
+  },
+  "A001071": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001071 Number of one-sided chessboard polyominoes with n cells."
+  },
+  "A001072": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001072 Number of minimally 2-edge-connected non-isomorphic graphs with n nodes."
+  },
+  "A001073": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001073 Label a 1-cm ruler with digits 1 cm wide."
+  },
+  "A001074": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001074 Numbers m such that Sum_{k=0..m-1} exp(2*Pi*i*k^3/m) != 0."
+  },
+  "A001075": {
+    "complexity": 72,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A001075 a(0) = 1, a(1) = 2, a(n) = 4*a(n-1) - a(n-2)."
+  },
+  "A001076": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A001076 Denominators of continued fraction convergents to sqrt(5)."
+  },
+  "A001077": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A001077 Numerators of continued fraction convergents to sqrt(5)."
+  },
+  "A001078": {
+    "complexity": 56,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001078 a(n) = 10*a(n-1) - a(n-2) with a(0) = 0, a(1) = 2."
+  },
+  "A001079": {
+    "complexity": 56,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001079 a(n) = 10*a(n-1) - a(n-2); a(0) = 1, a(1) = 5."
+  },
+  "A001080": {
+    "complexity": 61,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001080 a(n) = 16*a(n-1) - a(n-2) with a(0) = 0, a(1) = 3."
+  },
+  "A001081": {
+    "complexity": 59,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A001081 a(n) = 16*a(n-1) - a(n-2)."
+  },
+  "A001082": {
+    "complexity": 29,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001082 Generalized octagonal numbers: k*(3*k-2), k=0, +- 1, +- 2, +-3, ..."
+  },
+  "A001083": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001083 Length of one version of Kolakoski sequence {A000002(i)} at n-th growth stage."
+  },
+  "A001084": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001084 a(n) = 20*a(n-1) - a(n-2) with a(0) = 0, a(1) = 3."
+  },
+  "A001085": {
+    "complexity": 64,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A001085 a(n) = 20*a(n-1) - a(n-2)."
+  },
+  "A001086": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001086 Continued fraction associated with y(y+1) = x(x^2 -1)."
+  },
+  "A001087": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001087 Related to S(n), the number of self-dual monotone Boolean functions of n variables (A001206): 2^n-th term is S(n)."
+  },
+  "A001088": {
+    "complexity": 57,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001088 Product of totient function: a(n) = Product_{k=1..n} phi(k) (cf. A000010)."
+  },
+  "A001089": {
+    "complexity": 40,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001089 Number of permutations of [n] containing exactly 2 increasing subsequences of length 3."
+  },
+  "A001090": {
+    "complexity": 60,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001090 a(n) = 8*a(n-1) - a(n-2); a(0) = 0, a(1) = 1."
+  },
+  "A001091": {
+    "complexity": 52,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001091 a(n) = 8*a(n-1) - a(n-2); a(0) = 1, a(1) = 4."
+  },
+  "A001092": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A001092 Union of all numbers {p, q} where p and q are both primes or powers of primes and q = p+2."
+  },
+  "A001093": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001093 a(n) = n^3 + 1."
+  },
+  "A001094": {
+    "complexity": 25,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001094 a(n) = n + n*(n-1)*(n-2)*(n-3)."
+  },
+  "A001095": {
+    "complexity": 27,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001095 a(n) = n + n*(n-1)*(n-2)*(n-3)*(n-4)."
+  },
+  "A001096": {
+    "complexity": 30,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001096 a(n) = n + n*(n-1)*(n-2)*(n-3)*(n-4)*(n-5)."
+  },
+  "A001097": {
+    "complexity": 28,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A001097 Twin primes."
+  },
+  "A001098": {
+    "complexity": 38,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001098 Multiply previous term by 2 and write in binary."
+  },
+  "A001099": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001099 a(n) = n^n - a(n-1), with a(1) = 1."
+  },
   "A002000": {
     "complexity": 58,
     "dimensions": [
@@ -291,6 +2013,858 @@
     ],
     "name": "A002009 Almost trivalent maps."
   },
+  "A002010": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002010 Almost trivalent maps."
+  },
+  "A002011": {
+    "complexity": 43,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002011 a(n) = 4*(2n+1)!/n!^2."
+  },
+  "A002012": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002012 Almost trivalent maps."
+  },
+  "A002013": {
+    "complexity": 36,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002013 Filaments with n square cells."
+  },
+  "A002014": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002014 Number of symmetric filaments (strip polyominoes) with n square cells."
+  },
+  "A002015": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002015 a(n) = n^2 reduced mod 100."
+  },
+  "A002016": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002016 Number of first n tetrahedral numbers (A000292) that are relatively prime to n."
+  },
+  "A002017": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002017 Expansion of e.g.f. exp(sin(x))."
+  },
+  "A002018": {
+    "complexity": 75,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002018 From a distribution problem."
+  },
+  "A002019": {
+    "complexity": 52,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002019 a(n) = a(n-1) - (n-1)(n-2)a(n-2)."
+  },
+  "A002020": {
+    "complexity": 52,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002020 a(n+1) = a(n) - n*(n-1)*a(n-1), with a(n) = 1 for n <= 3."
+  },
+  "A002021": {
+    "complexity": 67,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002021 Pile of coconuts problem: (n-1)*(n^n - 1), n even; n^n - n + 1, n odd."
+  },
+  "A002022": {
+    "complexity": 64,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002022 In the pile of coconuts problem, the number of coconuts that remain to be shared equally at the end of the process."
+  },
+  "A002023": {
+    "complexity": 48,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002023 a(n) = 6*4^n."
+  },
+  "A002024": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002024 k appears k times; a(n) = floor(sqrt(2n) + 1/2)."
+  },
+  "A002025": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002025 Smaller of an amicable pair: (a,b) such that sigma(a) = sigma(b) = a+b, a < b."
+  },
+  "A002026": {
+    "complexity": 49,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002026 Generalized ballot numbers (first differences of Motzkin numbers)."
+  },
+  "A002027": {
+    "complexity": 77,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002027 Number of connected graphs on n labeled nodes, each node being colored with one of 2 colors, such that no edge joins nodes of the same color."
+  },
+  "A002028": {
+    "complexity": 93,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002028 Number of connected graphs on n labeled nodes, each node being colored with one of 3 colors, such that no edge joins nodes of the same color."
+  },
+  "A002029": {
+    "complexity": 86,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002029 Number of connected graphs on n labeled nodes, each node being colored with one of 4 colors, such that no edge joins nodes of the same color."
+  },
+  "A002030": {
+    "complexity": 83,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002030 Number of connected graphs on n labeled nodes, each node being colored with one of 5 colors, such that no edge joins nodes of the same color."
+  },
+  "A002031": {
+    "complexity": 78,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002031 Number of labeled connected digraphs on n nodes where every node has indegree 0 or outdegree 0 and no isolated nodes."
+  },
+  "A002032": {
+    "complexity": 97,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002032 Number of n-colored connected graphs on n labeled nodes."
+  },
+  "A002033": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002033 Number of perfect partitions of n."
+  },
+  "A002034": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A002034 Kempner numbers: smallest positive integer m such that n divides m!."
+  },
+  "A002035": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002035 Numbers that contain primes to odd powers only."
+  },
+  "A002036": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002036 Compressed primes: a(n) is the nearest integer to prime(n)/log prime(n)."
+  },
+  "A002037": {
+    "complexity": 77,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002037 Product of all primes up to 3^n."
+  },
+  "A002038": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002038 Numbers dividing A002037(i) and larger than A002037(i-1), for some i>0."
+  },
+  "A002039": {
+    "complexity": 36,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002039 Convolution inverse of A143348."
+  },
+  "A002040": {
+    "complexity": 36,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002040 Related to partitions."
+  },
+  "A002041": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002041 Expansion of x/((1-x)(1-4x^2)(1-5x))."
+  },
+  "A002042": {
+    "complexity": 46,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002042 a(n) = 7*4^n."
+  },
+  "A002043": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002043 Solid partitions."
+  },
+  "A002044": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002044 Solid partitions."
+  },
+  "A002045": {
+    "complexity": 31,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002045 Solid partitions."
+  },
+  "A002046": {
+    "complexity": 29,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002046 Larger of amicable pair."
+  },
+  "A002047": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002047 Number of 3 X (2n+1) zero-sum arrays with entries -n,...,0,...,n."
+  },
+  "A002048": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002048 Segmented numbers, or prime numbers of measurement."
+  },
+  "A002049": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002049 Prime numbers of measurement."
+  },
+  "A002050": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002050 Number of simplices in barycentric subdivision of n-simplex."
+  },
+  "A002051": {
+    "complexity": 75,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002051 Steffensen's bracket function [n,2]."
+  },
+  "A002052": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002052 Prime determinants of forms with class number 2."
+  },
+  "A002053": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002053 a(n) = least value of m for which Liouville's function A002819(m) = -n."
+  },
+  "A002054": {
+    "complexity": 66,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002054 Binomial coefficient C(2n+1, n-1)."
+  },
+  "A002055": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002055 Number of diagonal dissections of a convex n-gon into n-4 regions."
+  },
+  "A002056": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002056 Number of diagonal dissections of a convex n-gon into n-5 regions."
+  },
+  "A002057": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002057 Fourth convolution of Catalan numbers: a(n) = 4*binomial(2*n+3,n)/(n+4)."
+  },
+  "A002058": {
+    "complexity": 44,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002058 Number of internal triangles in all triangulations of an (n+1)-gon."
+  },
+  "A002059": {
+    "complexity": 42,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002059 Number of partitions of an n-gon into (n-4) parts."
+  },
+  "A002060": {
+    "complexity": 48,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002060 Number of partitions of an n-gon into (n-5) parts."
+  },
+  "A002061": {
+    "complexity": 75,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A002061 Central polygonal numbers: a(n) = n^2 - n + 1."
+  },
+  "A002062": {
+    "complexity": 30,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "recursion",
+      "golden_ratio"
+    ],
+    "name": "A002062 a(n) = Fibonacci(n) + n."
+  },
+  "A002063": {
+    "complexity": 46,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002063 a(n) = 9*4^n."
+  },
+  "A002064": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002064 Cullen numbers: a(n) = n*2^n + 1."
+  },
+  "A002065": {
+    "complexity": 54,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A002065 a(n+1) = a(n)^2 + a(n) + 1."
+  },
+  "A002066": {
+    "complexity": 46,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002066 a(n) = 10*4^n."
+  },
+  "A002067": {
+    "complexity": 88,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002067 a(n) = Sum_{k=0..n-1} binomial(2*n,2*k)*a(k)*a(n-k-1)."
+  },
+  "A002068": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002068 Wilson remainders: a(n) = ((p-1)!+1)/p mod p, where p = prime(n)."
+  },
+  "A002069": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002069 Palindromic pentagonal numbers."
+  },
+  "A002070": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002070 Coefficient of x^p (p = n-th prime) in x * Product_{k>=1} (1-x^k)^2*(1-x^11k)^2."
+  },
+  "A002071": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002071 Number of pairs of consecutive integers x, x+1 such that all prime factors of both x and x+1 are at most the n-th prime."
+  },
+  "A002072": {
+    "complexity": 62,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002072 a(n) = smallest number m such that for all k > m, either k or k+1 has a prime factor > prime(n)."
+  },
+  "A002073": {
+    "complexity": 68,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002073 Numerators of coefficients in an asymptotic expansion of the confluent hypergeometric function F(1-b; 2; 4b)."
+  },
+  "A002074": {
+    "complexity": 78,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002074 Denominators of coefficients in an asymptotic expansion of the confluent hypergeometric function F(1-b; 2; 4b)."
+  },
+  "A002075": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002075 Number of equivalence classes with primitive period n of base 3 necklaces, where necklaces are equivalent under rotation and permutation of symbols."
+  },
+  "A002076": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002076 Number of equivalence classes of base-3 necklaces of length n, where necklaces are considered equivalent under both rotations and permutations of the symbols."
+  },
+  "A002077": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002077 Number of N-equivalence classes of self-dual threshold functions of exactly n variables."
+  },
+  "A002078": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002078 N-equivalence classes of threshold functions of n or fewer variables."
+  },
+  "A002079": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002079 Number of N-equivalence classes of threshold functions of exactly n variables."
+  },
+  "A002080": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002080 Number of N-equivalence classes of self-dual threshold functions of n or fewer variables."
+  },
+  "A002081": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002081 Numbers congruent to {2, 4, 8, 16} (mod 20)."
+  },
+  "A002082": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002082 2nd differences are periodic."
+  },
+  "A002083": {
+    "complexity": 44,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002083 Narayana-Zidek-Capell numbers: a(n) = 1 for n <= 2. Otherwise a(2n) = 2a(2n-1), a(2n+1) = 2a(2n) - a(n)."
+  },
+  "A002084": {
+    "complexity": 75,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002084 Sinh(x) / cos(x) = Sum_{n>=0} a(n)*x^(2n+1)/(2n+1)!."
+  },
+  "A002085": {
+    "complexity": 53,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002085 From the expansion of sinh(x) / cos(x): a(n) = odd part of A002084(n)."
+  },
+  "A002086": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002086 Number of circulant tournaments on 2n+1 nodes up to Cayley isomorphism."
+  },
+  "A002087": {
+    "complexity": 11,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002087 Number of point-symmetric tournaments with 2n+1 nodes."
+  },
+  "A002088": {
+    "complexity": 36,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A002088 Sum of totient function: a(n) = Sum_{k=1..n} phi(k), cf. A000010."
+  },
+  "A002089": {
+    "complexity": 46,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002089 a(n) = 11*4^n."
+  },
+  "A002090": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002090 Related to Hamilton numbers."
+  },
+  "A002091": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002091 From a Goldbach conjecture: the location of records in A185091."
+  },
+  "A002092": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002092 From a Goldbach conjecture: records in A185091."
+  },
+  "A002093": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002093 Highly abundant numbers: numbers k such that sigma(k) > sigma(m) for all m < k."
+  },
+  "A002094": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A002094 Number of unlabeled connected loop-less graphs on n nodes containing exactly one cycle (of length at least 2) and with all nodes of degree <= 4."
+  },
+  "A002095": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002095 Number of partitions of n into nonprime parts."
+  },
+  "A002096": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002096 Mixed partitions of n."
+  },
+  "A002097": {
+    "complexity": 10,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002097 Numbers that are not the sum of 3 nonzero triangular numbers."
+  },
+  "A002098": {
+    "complexity": 28,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002098 G.f.: 1/Product_{k>=1} (1-prime(k)*x^prime(k))."
+  },
+  "A002099": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A002099 G.f.: -1 + Product_{k>=1} (1 + prime(k)*x^prime(k))."
+  },
   "A003000": {
     "complexity": 40,
     "dimensions": [
@@ -380,6 +2954,834 @@
       "salience"
     ],
     "name": "A003009 a(n+1) = a(n) + 4^(n-1) a(n)^2."
+  },
+  "A003010": {
+    "complexity": 54,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003010 A Lucas-Lehmer sequence: a(0) = 4; for n>0, a(n) = a(n-1)^2 - 2."
+  },
+  "A003011": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003011 Number of permutations of up to n kinds of objects, where each kind of object can occur at most two times."
+  },
+  "A003012": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003012 Maximum number of cubes of side length 2 that can be packed into a 3-dimensional torus of side length 2*n+1."
+  },
+  "A003013": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003013 E.g.f. 1 + x*exp(x) + x^2*exp(2*x)."
+  },
+  "A003014": {
+    "complexity": 40,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003014 Expansion of e.g.f.: 1 + x*exp(x) + x^2*exp(2*x) + x^3*exp(3*x)."
+  },
+  "A003015": {
+    "complexity": 80,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003015 Numbers that occur 5 or more times in Pascal's triangle."
+  },
+  "A003016": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003016 Number of occurrences of n as an entry in rows <= n of Pascal's triangle (A007318)."
+  },
+  "A003017": {
+    "complexity": 54,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003017 Expansion of 1/(1 - x*exp(x) + x^2*exp(2*x) - x^3*exp(3*x))."
+  },
+  "A003018": {
+    "complexity": 30,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003018 Number of distinct values taken by 3^3^...^3 (with n 3's and parentheses inserted in all possible ways)."
+  },
+  "A003019": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003019 Number of distinct values taken by 4^4^...^4 (with n 4's and parentheses inserted in all possible ways)."
+  },
+  "A003020": {
+    "complexity": 62,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A003020 Largest prime factor of the \"repunit\" number 11...1 (cf. A002275)."
+  },
+  "A003021": {
+    "complexity": 44,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A003021 Largest prime factor of 10^n + 1."
+  },
+  "A003022": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003022 Length of shortest (or optimal) Golomb ruler with n marks."
+  },
+  "A003023": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003023 \"Length\" of aliquot sequence for n."
+  },
+  "A003024": {
+    "complexity": 122,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A003024 Number of acyclic digraphs (or DAGs) with n labeled nodes."
+  },
+  "A003025": {
+    "complexity": 89,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003025 Number of n-node labeled acyclic digraphs with 1 out-point."
+  },
+  "A003026": {
+    "complexity": 78,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003026 Number of n-node labeled acyclic digraphs with 2 out-points."
+  },
+  "A003027": {
+    "complexity": 116,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003027 Number of weakly connected digraphs with n labeled nodes."
+  },
+  "A003028": {
+    "complexity": 117,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003028 Number of digraphs on n labeled nodes with a source."
+  },
+  "A003029": {
+    "complexity": 116,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003029 Number of unilaterally connected digraphs with n labeled nodes."
+  },
+  "A003030": {
+    "complexity": 118,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003030 Number of strongly connected digraphs with n labeled nodes."
+  },
+  "A003031": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003031 Denominators of expansion of Fresnel integral S(z)."
+  },
+  "A003032": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A003032 Smallest integer m such that the product of every 3 consecutive integers > m has a prime factor > prime(n)."
+  },
+  "A003033": {
+    "complexity": 27,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A003033 Smallest integer m such that the product of every 4 consecutive integers > m has a prime factor > prime(n)."
+  },
+  "A003034": {
+    "complexity": 11,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003034 Sylvester's problem: minimal number of ordinary lines through n points in the plane."
+  },
+  "A003035": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003035 Maximal number of 3-tree rows in n-tree orchard problem."
+  },
+  "A003036": {
+    "complexity": 9,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003036 Number of simplicial arrangements of n lines in the plane (the lines do not pass through a common point, all cells are triangles)."
+  },
+  "A003037": {
+    "complexity": 29,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003037 Smallest number of complexity n: smallest number requiring n 1's to build using +, * and ^."
+  },
+  "A003038": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003038 Dimensions of split simple Lie algebras over any field of characteristic zero."
+  },
+  "A003039": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A003039 Maximal number of prime implicants of a Boolean function of n variables."
+  },
+  "A003040": {
+    "complexity": 46,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003040 Highest degree of an irreducible representation of symmetric group S_n of degree n."
+  },
+  "A003041": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003041 Number of vacuously transitive relations on n nodes up to isomorphism."
+  },
+  "A003042": {
+    "complexity": 62,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003042 Number of directed Hamiltonian cycles (or Gray codes) on n-cube."
+  },
+  "A003043": {
+    "complexity": 30,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003043 Number of Hamiltonian paths (or Gray codes) on n-cube with a marked starting node."
+  },
+  "A003044": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003044 For n > 4, a(n) is the least integer > a(n-1) with precisely two representations a(n) = a(i) + a(j), 1 <= i < j < n; and a(n) = n for n=1..4."
+  },
+  "A003045": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003045 a(n) (n>6) is least integer > a(n-1) with precisely three representations a(n) = a(i) + a(j), 1 <= i < j < n, a(n) = n for n=1..6."
+  },
+  "A003046": {
+    "complexity": 108,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003046 Product of first n Catalan numbers."
+  },
+  "A003047": {
+    "complexity": 60,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003047 a(n) = Catalan(n) * Product_{k = 0..n-1} a(k)."
+  },
+  "A003048": {
+    "complexity": 48,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003048 a(n+1) = n*a(n) - (-1)^n."
+  },
+  "A003049": {
+    "complexity": 69,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003049 Number of connected Eulerian graphs with n unlabeled nodes."
+  },
+  "A003050": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A003050 Number of primitive sublattices of index n in hexagonal lattice: triples x,y,z from Z/nZ with x+y+z = 0, discarding any triple that can be obtained from another by multiplying by a unit and permuting."
+  },
+  "A003051": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A003051 Number of inequivalent sublattices of index n in hexagonal lattice, where two sublattices are equivalent if they are related by a rotation or reflection preserving the hexagonal lattice."
+  },
+  "A003052": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003052 Self numbers or Colombian numbers (numbers that are not of the form m + sum of digits of m for any m)."
+  },
+  "A003053": {
+    "complexity": 92,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003053 Order of orthogonal group O(n, GF(2))."
+  },
+  "A003054": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003054 Erroneous version of A001011 (\"folding a strip of stamps\")."
+  },
+  "A003055": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003055 Number of connected graphs, up to homeomorphism, that can be drawn in the plane using unit-length edges."
+  },
+  "A003056": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003056 n appears n+1 times. Also the array A(n,k) = n+k (n >= 0, k >= 0) read by antidiagonals. Also inverse of triangular numbers."
+  },
+  "A003057": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003057 n appears n - 1 times."
+  },
+  "A003058": {
+    "complexity": 9,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003058 Duplicate of A000194."
+  },
+  "A003059": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003059 k appears 2k-1 times. Also, square root of n, rounded up."
+  },
+  "A003060": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003060 Smallest number with reciprocal of period length n in decimal (base 10)."
+  },
+  "A003061": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003061 Number of non-Abelian (finite) groups with n conjugacy classes."
+  },
+  "A003062": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003062 Beginnings of periodic unitary aliquot sequences."
+  },
+  "A003063": {
+    "complexity": 42,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003063 a(n) = 3^(n-1) - 2^n."
+  },
+  "A003064": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003064 a(n) = smallest number with shortest addition chain of length n."
+  },
+  "A003065": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003065 Number of integers with a shortest addition chain of length n."
+  },
+  "A003066": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003066 Problimes (first definition)."
+  },
+  "A003067": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003067 Problimes (second definition)."
+  },
+  "A003068": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003068 Problimes (third definition)."
+  },
+  "A003069": {
+    "complexity": 81,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003069 Number of n-node digraphs with same converse as complement."
+  },
+  "A003070": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003070 a(n) = ceiling(log_2 n!)."
+  },
+  "A003071": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003071 Sorting numbers: maximal number of comparisons for sorting n elements by list merging."
+  },
+  "A003072": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003072 Numbers that are the sum of 3 positive cubes."
+  },
+  "A003073": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003073 A nonlinear recurrence."
+  },
+  "A003074": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003074 Number of different numbers <= n that are sums of 3 positive cubes."
+  },
+  "A003075": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003075 Minimal number of comparisons needed for n-element sorting network."
+  },
+  "A003076": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003076 n-th digit after decimal point of square root of n."
+  },
+  "A003077": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003077 Decimal expansion of 22/7 - Pi."
+  },
+  "A003078": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003078 Number of letters in n (in Danish)."
+  },
+  "A003079": {
+    "complexity": 11,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003079 One of the basic cycles in the x->3x-1 (x odd) or x/2 (x even) problem."
+  },
+  "A003080": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003080 Number of rooted triangular cacti with 2n+1 nodes (n triangles)."
+  },
+  "A003081": {
+    "complexity": 43,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003081 Number of triangular cacti with 2n+1 nodes (n triangles)."
+  },
+  "A003082": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A003082 Number of multigraphs with 4 nodes and n edges."
+  },
+  "A003083": {
+    "complexity": 81,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003083 Sum a(n) x^n / n = log (1 + Sum g(n) x^n ), where g(n) is # graphs on n nodes (A000088)."
+  },
+  "A003084": {
+    "complexity": 128,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003084 Related to number of digraphs."
+  },
+  "A003085": {
+    "complexity": 95,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003085 Number of weakly connected digraphs with n unlabeled nodes."
+  },
+  "A003086": {
+    "complexity": 75,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003086 Number of self-complementary digraphs with n nodes."
+  },
+  "A003087": {
+    "complexity": 79,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003087 Number of acyclic digraphs with n unlabeled nodes."
+  },
+  "A003088": {
+    "complexity": 28,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003088 Number of unilateral digraphs with n unlabeled nodes."
+  },
+  "A003089": {
+    "complexity": 52,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003089 Number of connected line graphs with n nodes."
+  },
+  "A003090": {
+    "complexity": 48,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003090 Number of species (or \"main classes\" or \"paratopy classes\") of Latin squares of order n."
+  },
+  "A003091": {
+    "complexity": 88,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003091 a(n) = floor( 2^(n*(n-1)/2) / n! )."
+  },
+  "A003092": {
+    "complexity": 73,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003092 Number of labeled plane 2-trees with n nodes."
+  },
+  "A003093": {
+    "complexity": 55,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003093 Number of planar 2-trees with n nodes."
+  },
+  "A003094": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003094 Number of unlabeled connected planar simple graphs with n nodes."
+  },
+  "A003095": {
+    "complexity": 79,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003095 a(n) = a(n-1)^2 + 1 for n >= 1, with a(0) = 0."
+  },
+  "A003096": {
+    "complexity": 76,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003096 a(n) = a(n-1)^2 - 1, a(0) = 2."
+  },
+  "A003097": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003097 Critical connected topologies with n points."
+  },
+  "A003098": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003098 Palindromic triangular numbers."
+  },
+  "A003099": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003099 a(n) = Sum_{k=0..n} binomial(n,k^2)."
   },
   "A004000": {
     "complexity": 41,
@@ -473,6 +3875,844 @@
     ],
     "name": "A004009 Expansion of Eisenstein series E_4(q) (alternate convention E_2(q)); theta series of E_8 lattice."
   },
+  "A004010": {
+    "complexity": 31,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004010 Theta series of 12-dimensional Coxeter-Todd lattice K_12."
+  },
+  "A004011": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004011 Theta series of D_4 lattice; Fourier coefficients of Eisenstein series E_{gamma,2}."
+  },
+  "A004012": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004012 Theta series of hexagonal close-packing."
+  },
+  "A004013": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004013 Theta series of body-centered cubic (b.c.c.) lattice."
+  },
+  "A004014": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004014 Norms of vectors in the b.c.c. lattice."
+  },
+  "A004015": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004015 Theta series of face-centered cubic (f.c.c.) lattice."
+  },
+  "A004016": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004016 Theta series of planar hexagonal lattice A_2."
+  },
+  "A004017": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004017 Theta series of E_8 lattice with respect to deep hole."
+  },
+  "A004018": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004018 Theta series of square lattice (or number of ways of writing n as a sum of 2 squares). Often denoted by r(n) or r_2(n)."
+  },
+  "A004019": {
+    "complexity": 72,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004019 a(0) = 0; for n > 0, a(n) = (a(n-1) + 1)^2."
+  },
+  "A004020": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004020 Theta series of square lattice with respect to edge."
+  },
+  "A004021": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004021 Theta series of packing P_{10c}."
+  },
+  "A004022": {
+    "complexity": 61,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A004022 Primes of the form (10^k - 1)/9. Also called repunit primes or repdigit primes."
+  },
+  "A004023": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A004023 Indices of prime repunits: numbers k such that 11...111 (with k 1's) = (10^k - 1)/9 is prime."
+  },
+  "A004024": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004024 Theta series of b.c.c. lattice with respect to deep hole."
+  },
+  "A004025": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004025 Theta series of b.c.c. lattice with respect to long edge."
+  },
+  "A004026": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004026 Number of perfect quadratic forms or lattices in dimension n."
+  },
+  "A004027": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A004027 Number of arithmetic n-dimensional crystal classes."
+  },
+  "A004028": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A004028 Number of geometric n-dimensional crystal classes."
+  },
+  "A004029": {
+    "complexity": 27,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004029 Number of n-dimensional space groups."
+  },
+  "A004030": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004030 Erroneous version of A256413."
+  },
+  "A004031": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A004031 Number of n-dimensional crystal systems."
+  },
+  "A004032": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004032 Number of n-dimensional crystal families."
+  },
+  "A004033": {
+    "complexity": 36,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004033 Theta series of lattice A_2 tensor E_8 (dimension 16, det. 6561, min. norm 4). Also theta series of Eisenstein version of E_8 lattice."
+  },
+  "A004034": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004034 Theta series of Leech lattice with respect to deep hole of type A_1."
+  },
+  "A004035": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004035 The coding-theoretic function A(n,4,5)."
+  },
+  "A004036": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004036 The coding-theoretic function A(n,4,6)."
+  },
+  "A004037": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004037 The coding-theoretic function A(n,6,4)."
+  },
+  "A004038": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004038 The coding-theoretic function A(n,6,5)."
+  },
+  "A004039": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004039 The coding-theoretic function A(n,6,6)."
+  },
+  "A004040": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004040 Inversion of A000257."
+  },
+  "A004041": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004041 Scaled sums of odd reciprocals: a(n) = (2*n + 1)!!*(Sum_{k=0..n} 1/(2*k + 1))."
+  },
+  "A004042": {
+    "complexity": 140,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004042 Periods of reciprocals of A006883, starting with first nonzero digit."
+  },
+  "A004043": {
+    "complexity": 11,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004043 The coding-theoretic function A(n,8,8)."
+  },
+  "A004044": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004044 The classic football pool problem: size of minimal covering code in {0,1,2}^n with covering radius 1."
+  },
+  "A004045": {
+    "complexity": 10,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004045 Minimal size of binary code of length n such that every vector is within distance 1 of at least 2 codewords."
+  },
+  "A004046": {
+    "complexity": 42,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004046 Theta series of extremal 3-modular even 24-dimensional lattice with minimal norm 6 and det = 3^12."
+  },
+  "A004047": {
+    "complexity": 10,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004047 The coding-theoretic function A(n,10,9)."
+  },
+  "A004048": {
+    "complexity": 30,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004048 Theta series of 14-dimensional extremal 3-modular lattice with det 3^7, minimal norm 4, group 2 X G_2(3)."
+  },
+  "A004049": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004049 Erroneous version of A006967."
+  },
+  "A004050": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004050 Numbers of the form 2^j + 3^k, for j and k >= 0."
+  },
+  "A004051": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A004051 Primes of the form 2^a + 3^b."
+  },
+  "A004052": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004052 The coding-theoretic function A(n,14,8)."
+  },
+  "A004053": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004053 For m=2,3,..., write m in bases 2,3,..,m."
+  },
+  "A004054": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004054 Expansion of (1-x)/((1+x)*(1-2*x)*(1-3*x))."
+  },
+  "A004055": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A004055 ((p-1)/2)! mod p for odd primes p."
+  },
+  "A004056": {
+    "complexity": 10,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004056 The coding-theoretic function A(n,14,12)."
+  },
+  "A004057": {
+    "complexity": 40,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004057 Expansion of (1-x)/( (1+x)*(1-2*x)*(1-3*x)*(1-4*x))."
+  },
+  "A004058": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004058 Expansion of (1-x)/( (1+x)*(1-2*x)*(1-3*x)*(1-4*x)*(1-5*x))."
+  },
+  "A004059": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004059 a(n) gives position of first n in A057561."
+  },
+  "A004060": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004060 Erroneous version of A028491."
+  },
+  "A004061": {
+    "complexity": 27,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A004061 Numbers k such that (5^k - 1)/4 is prime."
+  },
+  "A004062": {
+    "complexity": 27,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A004062 Numbers k such that (6^k - 1)/5 is prime."
+  },
+  "A004063": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A004063 Numbers k such that (7^k - 1)/6 is prime."
+  },
+  "A004064": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A004064 Numbers k such that (12^k - 1)/11 is prime."
+  },
+  "A004065": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004065 Define predecessors of n, P(n), to consist of numbers whose binary representation is obtained from that of n by replacing 10 with 01 or changing a final 1 to a 0; then a(0)=1, a(n) = Sum a(P(n)), n>0."
+  },
+  "A004066": {
+    "complexity": 62,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004066 Number of simple regular trivalent bicolored graphs with 2n nodes."
+  },
+  "A004067": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004067 The coding-theoretic function A(n,6,7)."
+  },
+  "A004068": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004068 Number of atoms in a decahedron with n shells."
+  },
+  "A004069": {
+    "complexity": 10,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004069 Numbers of points in nontrivial partial geometries."
+  },
+  "A004070": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004070 Table of Whitney numbers W(n,k) read by antidiagonals, where W(n,k) is maximal number of pieces into which n-space is sliced by k hyperplanes, n >= 0, k >= 0."
+  },
+  "A004071": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004071 Start with a(0)=1; replace each i with 12...i, then add 1 to final digit."
+  },
+  "A004072": {
+    "complexity": 43,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004072 Read the terms of A004071 backwards."
+  },
+  "A004073": {
+    "complexity": 78,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004073 Start with a(1)=1; to get a(n) replace each i in a(n-1) with 12...i, then append n."
+  },
+  "A004074": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004074 a(n) = 2*A004001(n) - n, where A004001 is the Hofstadter-Conway $10000 sequence."
+  },
+  "A004075": {
+    "complexity": 62,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004075 Number of Skolem sequences of order n."
+  },
+  "A004076": {
+    "complexity": 42,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004076 Number of hooked Skolem sequences of order n."
+  },
+  "A004077": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004077 Number of extended Skolem sequences of order n."
+  },
+  "A004078": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004078 Number of Tuscan squares of order n."
+  },
+  "A004079": {
+    "complexity": 10,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004079 a(n) = maximal m such that an m X n Florentine rectangle exists."
+  },
+  "A004080": {
+    "complexity": 39,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004080 Least k such that H(k) >= n, where H(k) is the harmonic number Sum_{i=1..k} 1/i."
+  },
+  "A004081": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004081 a(n) = n-th positive integer such that only one integer lies between exp(s(m)) and exp(s(m+1)), where s(m) = 1 + 1/2 + 1/3 + . . . + 1/m."
+  },
+  "A004082": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004082 Numbers k such that sin(k-1) <= 0 and sin(k) > 0."
+  },
+  "A004083": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004083 Numbers k such that cos(k-1) <= 0 and cos(k) > 0."
+  },
+  "A004084": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004084 a(n) = n-th positive integer k such that tan(k-1) <= 0 and tan(k) > 0."
+  },
+  "A004085": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004085 Sum of digits of Euler totient function of n."
+  },
+  "A004086": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004086 Read n backwards (referred to as R(n) in many sequences)."
+  },
+  "A004087": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A004087 Primes written backwards."
+  },
+  "A004088": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004088 Sum of digits of number of partitions of n."
+  },
+  "A004089": {
+    "complexity": 25,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004089 Reverse digits of number of partitions of n."
+  },
+  "A004090": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "recursion",
+      "golden_ratio"
+    ],
+    "name": "A004090 Sum of digits of Fibonacci numbers."
+  },
+  "A004091": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "recursion",
+      "golden_ratio"
+    ],
+    "name": "A004091 Fibonacci numbers written backwards."
+  },
+  "A004092": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004092 Sum of digits of even numbers."
+  },
+  "A004093": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004093 Even numbers written backwards."
+  },
+  "A004094": {
+    "complexity": 36,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004094 Powers of 2 written backwards."
+  },
+  "A004095": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004095 Sum of digits of Catalan numbers."
+  },
+  "A004096": {
+    "complexity": 42,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004096 Catalan numbers written backwards."
+  },
+  "A004097": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004097 Sum of digits of Bell numbers."
+  },
+  "A004098": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004098 Bell numbers written backwards."
+  },
+  "A004099": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004099 Sum of digits of Euler numbers."
+  },
   "A005000": {
     "complexity": 15,
     "dimensions": [
@@ -562,6 +4802,898 @@
       "salience"
     ],
     "name": "A005009 a(n) = 7*2^n."
+  },
+  "A005010": {
+    "complexity": 38,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005010 a(n) = 9*2^n."
+  },
+  "A005011": {
+    "complexity": 54,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005011 Shifts one place left under 5th-order binomial transform."
+  },
+  "A005012": {
+    "complexity": 62,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005012 Shifts one place left under 6th-order binomial transform."
+  },
+  "A005013": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "recursion",
+      "golden_ratio",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A005013 a(n) = 3*a(n-2) - a(n-4), a(0)=0, a(1)=1, a(2)=1, a(3)=4. Alternates Fibonacci (A000045) and Lucas (A000032) sequences for even and odd n."
+  },
+  "A005014": {
+    "complexity": 79,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005014 Certain subgraphs of a directed graph (inverse binomial transform of A005321)."
+  },
+  "A005015": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005015 a(n) = 11*2^n."
+  },
+  "A005016": {
+    "complexity": 79,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005016 Certain subgraphs of a directed graph."
+  },
+  "A005017": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005017 Denominator of (binomial(2*n-2,n-1)/n!)^2."
+  },
+  "A005018": {
+    "complexity": 9,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005018 Divisors of 20: a finite sequence associated with the Lie algebra A_4."
+  },
+  "A005019": {
+    "complexity": 73,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005019 The number of n X n (0,1)-matrices with a 1-width of 1."
+  },
+  "A005020": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005020 The number of n X n (0,1)-matrices with a 1-width of 2."
+  },
+  "A005021": {
+    "complexity": 48,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A005021 Random walks (binomial transform of A006054)."
+  },
+  "A005022": {
+    "complexity": 43,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005022 Number of walks of length 2n+6 in the path graph P_7 from one end to the other."
+  },
+  "A005023": {
+    "complexity": 44,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005023 Number of walks of length 2n+7 in the path graph P_8 from one end to the other."
+  },
+  "A005024": {
+    "complexity": 42,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005024 Number of walks of length 2n+8 in the path graph P_9 from one end to the other."
+  },
+  "A005025": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005025 Random walks."
+  },
+  "A005026": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005026 Number of non-neighborly combinatorial 3-manifolds."
+  },
+  "A005027": {
+    "complexity": 52,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005027 Number of trivalent maps with n nodes."
+  },
+  "A005028": {
+    "complexity": 42,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005028 Number of symmetric trivalent maps with n nodes."
+  },
+  "A005029": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005029 a(n) = 13*2^n."
+  },
+  "A005030": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005030 a(n) = 5*3^n."
+  },
+  "A005031": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005031 Number of n-dimensional space groups in largest crystal class."
+  },
+  "A005032": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005032 a(n) = 7*3^n."
+  },
+  "A005033": {
+    "complexity": 49,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005033 Number of nonequivalent dissections of a polygon into n quadrilaterals by nonintersecting diagonals rooted at a cell up to rotation."
+  },
+  "A005034": {
+    "complexity": 53,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005034 Number of nonequivalent dissections of a polygon into n quadrilaterals by nonintersecting diagonals up to rotation."
+  },
+  "A005035": {
+    "complexity": 48,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005035 Number of nonequivalent dissections of a polygon into n quadrilaterals by nonintersecting diagonals rooted at a cell up to rotation and reflection."
+  },
+  "A005036": {
+    "complexity": 43,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005036 Number of nonequivalent dissections of a polygon into n quadrilaterals by nonintersecting diagonals up to rotation and reflection."
+  },
+  "A005037": {
+    "complexity": 49,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005037 Number of nonequivalent dissections of a polygon into n pentagons by nonintersecting diagonals rooted at a cell up to rotation."
+  },
+  "A005038": {
+    "complexity": 48,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005038 Number of nonequivalent dissections of a polygon into n pentagons by nonintersecting diagonals up to rotation."
+  },
+  "A005039": {
+    "complexity": 49,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005039 Number of nonequivalent dissections of a polygon into n pentagons by nonintersecting diagonals rooted at a cell up to rotation and reflection."
+  },
+  "A005040": {
+    "complexity": 54,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005040 Number of nonequivalent dissections of a polygon into n pentagons by nonintersecting diagonals up to rotation and reflection."
+  },
+  "A005041": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005041 A self-generating sequence."
+  },
+  "A005042": {
+    "complexity": 94,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005042 Primes formed by the initial digits of the decimal expansion of Pi."
+  },
+  "A005043": {
+    "complexity": 84,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A005043 Riordan numbers: a(n) = (n-1)*(2*a(n-1) + 3*a(n-2))/(n+1)."
+  },
+  "A005044": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005044 Alcuin's sequence: expansion of x^3/((1-x^2)*(1-x^3)*(1-x^4))."
+  },
+  "A005045": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005045 Number of restricted 3 X 3 matrices with row and column sums n."
+  },
+  "A005046": {
+    "complexity": 73,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005046 Number of partitions of a 2n-set into even blocks."
+  },
+  "A005047": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005047 Minimal span of set of n elements with no 3-term arithmetic progression."
+  },
+  "A005048": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005048 Minimal span of set of n elements with no 4-term arithmetic progression."
+  },
+  "A005049": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005049 Minimal span of set of n elements with no 5-term arithmetic progression."
+  },
+  "A005050": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005050 Minimal span of set of n elements with no 6-term arithmetic progression."
+  },
+  "A005051": {
+    "complexity": 42,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005051 a(n) = 8*3^n."
+  },
+  "A005052": {
+    "complexity": 40,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005052 a(n) = 10*3^n."
+  },
+  "A005053": {
+    "complexity": 42,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005053 Expand (1-2*x)/(1-5*x)."
+  },
+  "A005054": {
+    "complexity": 53,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A005054 a(0) = 1; a(n) = 4*5^(n-1) for n >= 1."
+  },
+  "A005055": {
+    "complexity": 48,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005055 a(n) = 7*5^n."
+  },
+  "A005056": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005056 a(n) = 3^n + 2^n - 1."
+  },
+  "A005057": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005057 a(n) = 5^n - 2^n."
+  },
+  "A005058": {
+    "complexity": 42,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005058 a(n) = 5^n - 3^n."
+  },
+  "A005059": {
+    "complexity": 49,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005059 a(n) = (5^n - 3^n)/2."
+  },
+  "A005060": {
+    "complexity": 44,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005060 a(n) = 5^n - 4^n."
+  },
+  "A005061": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005061 a(n) = 4^n - 3^n."
+  },
+  "A005062": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005062 a(n) = 6^n - 5^n."
+  },
+  "A005063": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005063 Sum of squares of primes dividing n."
+  },
+  "A005064": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005064 Sum of cubes of primes dividing n."
+  },
+  "A005065": {
+    "complexity": 27,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005065 Sum of 4th powers of primes dividing n."
+  },
+  "A005066": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005066 Sum of squares of odd primes dividing n."
+  },
+  "A005067": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005067 Sum of cubes of odd primes dividing n."
+  },
+  "A005068": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005068 Sum of 4th powers of odd primes dividing n."
+  },
+  "A005069": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005069 Sum of odd primes dividing n."
+  },
+  "A005070": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005070 Sum of primes == 1 (mod 3) dividing n."
+  },
+  "A005071": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005071 Sum of squares of primes = 1 mod 3 dividing n."
+  },
+  "A005072": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005072 Sum of cubes of primes = 1 mod 3 dividing n."
+  },
+  "A005073": {
+    "complexity": 25,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005073 Sum of 4th powers of primes = 1 mod 3 dividing n."
+  },
+  "A005074": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005074 Sum of primes = 2 mod 3 dividing n."
+  },
+  "A005075": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005075 Sum of squares of primes = 2 mod 3 dividing n."
+  },
+  "A005076": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005076 Sum of cubes of primes = 2 mod 3 dividing n."
+  },
+  "A005077": {
+    "complexity": 25,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005077 Sum of 4th powers of primes = 2 mod 3 dividing n."
+  },
+  "A005078": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005078 Sum of primes = 1 mod 4 dividing n."
+  },
+  "A005079": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005079 Sum of squares of primes = 1 mod 4 dividing n."
+  },
+  "A005080": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005080 Sum of cubes of primes = 1 mod 4 dividing n."
+  },
+  "A005081": {
+    "complexity": 25,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005081 Sum of 4th powers of primes = 1 mod 4 dividing n."
+  },
+  "A005082": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005082 Sum of primes = 3 mod 4 dividing n."
+  },
+  "A005083": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005083 Sum of squares of primes = 3 mod 4 dividing n."
+  },
+  "A005084": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005084 Sum of cubes of primes = 3 mod 4 dividing n."
+  },
+  "A005085": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005085 Sum of 4th powers of primes = 3 mod 4 dividing n."
+  },
+  "A005086": {
+    "complexity": 11,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "recursion",
+      "golden_ratio"
+    ],
+    "name": "A005086 Number of Fibonacci numbers 1,2,3,5,... dividing n."
+  },
+  "A005087": {
+    "complexity": 9,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005087 Number of distinct odd primes dividing n."
+  },
+  "A005088": {
+    "complexity": 9,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005088 Number of primes = 1 mod 3 dividing n."
+  },
+  "A005089": {
+    "complexity": 9,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005089 Number of distinct primes == 1 (mod 4) dividing n."
+  },
+  "A005090": {
+    "complexity": 10,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005090 Number of primes == 2 mod 3 dividing n."
+  },
+  "A005091": {
+    "complexity": 9,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005091 Number of distinct primes = 3 mod 4 dividing n."
+  },
+  "A005092": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "recursion",
+      "golden_ratio"
+    ],
+    "name": "A005092 Sum of Fibonacci numbers 1,2,3,5,... that divide n."
+  },
+  "A005093": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "recursion",
+      "golden_ratio"
+    ],
+    "name": "A005093 Sum of squares of Fibonacci numbers 1,2,3,5,... that divide n."
+  },
+  "A005094": {
+    "complexity": 10,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005094 Number of distinct primes of the form 4k+1 dividing n minus number of distinct primes of the form 4k+3 dividing n."
+  },
+  "A005095": {
+    "complexity": 57,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005095 a(n) = n! + n."
+  },
+  "A005096": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005096 a(n) = n! - n."
+  },
+  "A005097": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005097 (Odd primes - 1)/2."
+  },
+  "A005098": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005098 Numbers k such that 4k + 1 is prime."
+  },
+  "A005099": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A005099 (( Primes == -1 (mod 4) ) + 1)/4."
   },
   "A006000": {
     "complexity": 32,
@@ -659,6 +5791,840 @@
     ],
     "name": "A006009 Number of paraffins."
   },
+  "A006010": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006010 Number of paraffins (see Losanitsch reference for precise definition)."
+  },
+  "A006011": {
+    "complexity": 28,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006011 a(n) = n^2*(n^2 - 1)/4."
+  },
+  "A006012": {
+    "complexity": 66,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006012 a(0) = 1, a(1) = 2, a(n) = 4*a(n-1) - 2*a(n-2), n >= 2."
+  },
+  "A006013": {
+    "complexity": 69,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006013 a(n) = binomial(3*n+1,n)/(n+1)."
+  },
+  "A006014": {
+    "complexity": 59,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006014 a(n+1) = (n+1)*a(n) + Sum_{k=1..n-1} a(k)*a(n-k)."
+  },
+  "A006015": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006015 Nim product 2*n."
+  },
+  "A006016": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006016 The nim value for the game of Sym with n tails and 1 head."
+  },
+  "A006017": {
+    "complexity": 31,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006017 Nim product 2^n * 2^n."
+  },
+  "A006018": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006018 List of periods for game of Third One Lucky."
+  },
+  "A006019": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006019 Remoteness number of n in Simon Norton's game of Tribulations."
+  },
+  "A006020": {
+    "complexity": 10,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006020 Suspense numbers for Tribulations."
+  },
+  "A006021": {
+    "complexity": 10,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006021 The game of contours."
+  },
+  "A006022": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006022 Sprague-Grundy (or Nim) values for the game of Maundy cake on an n X 1 sheet."
+  },
+  "A006023": {
+    "complexity": 94,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006023 Number of unlabeled mating digraphs with n nodes."
+  },
+  "A006024": {
+    "complexity": 83,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006024 Number of labeled mating graphs with n nodes. Also called point-determining graphs."
+  },
+  "A006025": {
+    "complexity": 100,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006025 Number of labeled mating digraphs with n nodes."
+  },
+  "A006026": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006026 Number of column-convex polyominoes with perimeter n."
+  },
+  "A006027": {
+    "complexity": 46,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006027 Number of directed column-convex polyominoes with perimeter 2n+2."
+  },
+  "A006028": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006028 Weight distribution of [ 128,99,8 ] 4th-order Reed-Muller code RM(4,7)."
+  },
+  "A006029": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006029 Numbers k such that the k-th tetrahedral number k*(k+1)*(k+2)/6 is palindromic."
+  },
+  "A006030": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006030 Palindromic tetrahedral numbers."
+  },
+  "A006031": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006031 Erroneous version of A016054."
+  },
+  "A006032": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A006032 Numbers k such that (14^k - 1)/13 is prime."
+  },
+  "A006033": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A006033 Numbers n such that (15^n - 1)/14 is prime."
+  },
+  "A006034": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A006034 Numbers n such that (17^n-1)/16 is prime."
+  },
+  "A006035": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A006035 Numbers n such that (19^n-1)/18 is prime."
+  },
+  "A006036": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006036 Primitive pseudoperfect numbers."
+  },
+  "A006037": {
+    "complexity": 30,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006037 Weird numbers: abundant (A005101) but not pseudoperfect (A005835)."
+  },
+  "A006038": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006038 Odd primitive abundant numbers."
+  },
+  "A006039": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006039 Primitive non-deficient numbers."
+  },
+  "A006040": {
+    "complexity": 78,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006040 a(n) = Sum_{i=0..n} (n!/(n-i)!)^2."
+  },
+  "A006041": {
+    "complexity": 83,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006041 a(n+1) = (n^2 - 1)*a(n) + n + 1."
+  },
+  "A006042": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006042 The nim-square of n."
+  },
+  "A006043": {
+    "complexity": 46,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006043 A traffic light problem: expansion of 2/(1 - 3*x)^3."
+  },
+  "A006044": {
+    "complexity": 49,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006044 a(n) = 4^(n-4)*(n-1)*(n-2)*(n-3)."
+  },
+  "A006045": {
+    "complexity": 30,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006045 Sum of orders of all 2 X 2 matrices with entries mod n."
+  },
+  "A006046": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006046 Total number of odd entries in first n rows of Pascal's triangle: a(0) = 0, a(1) = 1, a(2k) = 3*a(k), a(2k+1) = 2*a(k) + a(k+1).  a(n) = Sum_{i=0..n-1} 2^wt(i)."
+  },
+  "A006047": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006047 Number of entries in n-th row of Pascal's triangle not divisible by 3."
+  },
+  "A006048": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006048 Number of entries in first n rows of Pascal's triangle not divisible by 3."
+  },
+  "A006049": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A006049 Numbers k such that k and k+1 have the same number of distinct prime divisors."
+  },
+  "A006050": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006050 Smallest number of additive persistence n."
+  },
+  "A006051": {
+    "complexity": 79,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006051 Square hex numbers."
+  },
+  "A006052": {
+    "complexity": 57,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006052 Number of magic squares of order n composed of the numbers from 1 to n^2, counted up to rotations and reflections."
+  },
+  "A006053": {
+    "complexity": 39,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006053 a(n) = a(n-1) + 2*a(n-2) - a(n-3), with a(0) = a(1) = 0, a(2) = 1."
+  },
+  "A006054": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A006054 a(n) = 2*a(n-1) + a(n-2) - a(n-3), with a(0) = a(1) = 0, a(2) = 1."
+  },
+  "A006055": {
+    "complexity": 92,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A006055 Primes with consecutive (ascending) digits."
+  },
+  "A006056": {
+    "complexity": 79,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006056 Number of topologies on n labeled points satisfying the T_4 axiom."
+  },
+  "A006057": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006057 Number of topologies on n labeled points satisfying axioms T_0-T_4."
+  },
+  "A006058": {
+    "complexity": 74,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006058 Number of connected labeled T_4-topologies with n points."
+  },
+  "A006059": {
+    "complexity": 79,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006059 Number of connected labeled T_0-T_4-topologies with n points."
+  },
+  "A006060": {
+    "complexity": 67,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006060 Triangular star numbers."
+  },
+  "A006061": {
+    "complexity": 64,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006061 Star numbers (A003154) that are squares."
+  },
+  "A006062": {
+    "complexity": 66,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006062 Star-hex numbers."
+  },
+  "A006063": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006063 A card-arranging problem: values of n such that there exists a permutation p_1, ..., p_n of 1, ..., n such that i + p_i is a cube for every i."
+  },
+  "A006064": {
+    "complexity": 66,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006064 Smallest junction number with n generators."
+  },
+  "A006065": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006065 Maximal number of 4-tree rows in n-tree orchard problem."
+  },
+  "A006066": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006066 Kobon triangles: maximal number of nonoverlapping triangles that can be formed from n lines drawn in the plane."
+  },
+  "A006067": {
+    "complexity": 69,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006067 Number of ways to quarter an n X n chessboard."
+  },
+  "A006068": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006068 a(n) is Gray-coded into n."
+  },
+  "A006069": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006069 Number of directed Hamiltonian cycles (or Gray codes) on n-cube with a marked starting node."
+  },
+  "A006070": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006070 Number of Hamiltonian paths on n-cube which are strictly not cycles."
+  },
+  "A006071": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006071 Maximal length of rook tour on an n X n board."
+  },
+  "A006072": {
+    "complexity": 25,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006072 Numbers with mirror symmetry about middle."
+  },
+  "A006073": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A006073 Numbers k such that k, k+1 and k+2 all have the same number of distinct prime divisors."
+  },
+  "A006074": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006074 Number of polyaboloes (or polytans): number of different shapes that can be formed with n congruent isosceles right triangles, identifying mirror images."
+  },
+  "A006075": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006075 Minimal number of knights needed to cover an n X n board."
+  },
+  "A006076": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006076 Sequence A006075 gives minimal number of knights needed to cover an n X n board. This sequence gives number of inequivalent solutions using A006075(n) knights."
+  },
+  "A006077": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006077 (n+1)^2*a(n+1) = (9n^2+9n+3)*a(n) - 27*n^2*a(n-1), with a(0) = 1 and a(1) = 3."
+  },
+  "A006078": {
+    "complexity": 40,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006078 Number of triangulated (n+2)-gons rooted at an exterior edge."
+  },
+  "A006079": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006079 Number of asymmetric planted projective plane trees with n+1 nodes; bracelets (reversible necklaces) with n black beads and n-1 white beads."
+  },
+  "A006080": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006080 Number of rooted projective plane trees with n nodes."
+  },
+  "A006081": {
+    "complexity": 42,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006081 Number of line-rooted projective plane trees with n nodes."
+  },
+  "A006082": {
+    "complexity": 44,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006082 Number of labeled projective plane trees (or \"flat\" trees) with n nodes."
+  },
+  "A006083": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006083 Continued fraction for e/2."
+  },
+  "A006084": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006084 Continued fraction for e/3."
+  },
+  "A006085": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006085 Continued fraction for e/4."
+  },
+  "A006086": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006086 Unitary harmonic numbers (those for which the unitary harmonic mean is an integer)."
+  },
+  "A006087": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006087 Unitary harmonic means H(n) of the unitary harmonic numbers (A006086)."
+  },
+  "A006088": {
+    "complexity": 84,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006088 a(n) = (2^n + 2) a(n-1) (kissing number of Barnes-Wall lattice in dimension 2^n)."
+  },
+  "A006089": {
+    "complexity": 49,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006089 Coefficients of elliptic function cn."
+  },
+  "A006090": {
+    "complexity": 31,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006090 Expansion of bracket function."
+  },
+  "A006091": {
+    "complexity": 66,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006091 a(n) = n^n - n + 1."
+  },
+  "A006092": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006092 Numbers beginning with letter 't' when spelled out in English."
+  },
+  "A006093": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A006093 a(n) = prime(n) - 1."
+  },
+  "A006094": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A006094 Products of 2 successive primes."
+  },
+  "A006095": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A006095 Gaussian binomial coefficient [n,2] for q=2."
+  },
+  "A006096": {
+    "complexity": 52,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006096 Gaussian binomial coefficient [ n,3 ] for q=2."
+  },
+  "A006097": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006097 Gaussian binomial coefficient [ n,4 ] for q=2."
+  },
+  "A006098": {
+    "complexity": 110,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006098 Gaussian binomial coefficient [ 2n,n ] for q=2."
+  },
+  "A006099": {
+    "complexity": 73,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006099 Gaussian binomial coefficient [ n, n/2 ] for q=2."
+  },
   "A007000": {
     "complexity": 22,
     "dimensions": [
@@ -751,6 +6717,830 @@
     ],
     "name": "A007009 Number of 3-voter voting schemes with n linearly ranked choices."
   },
+  "A007010": {
+    "complexity": 30,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007010 Number of 4-voter voting schemes with n linearly ranked choices."
+  },
+  "A007011": {
+    "complexity": 75,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A007011 a(n) = smallest pseudoprime to base 2 with n prime factors."
+  },
+  "A007012": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A007012 a(n) is number of k for which C(n,k) is not divisible by n."
+  },
+  "A007013": {
+    "complexity": 101,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007013 Catalan-Mersenne numbers: a(0) = 2; for n >= 0, a(n+1) = 2^a(n) - 1."
+  },
+  "A007014": {
+    "complexity": 67,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A007014 Largest prime <= Product prime(k)."
+  },
+  "A007015": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007015 a(n) = smallest k such that phi(n+k) = phi(k)."
+  },
+  "A007016": {
+    "complexity": 55,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007016 Number of permutations of length n with 1 fixed and 1 reflected point."
+  },
+  "A007017": {
+    "complexity": 53,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007017 Number of motifs in triangular window of side n."
+  },
+  "A007018": {
+    "complexity": 80,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007018 a(n) = a(n-1)^2 + a(n-1), a(0)=1."
+  },
+  "A007019": {
+    "complexity": 84,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007019 a(n) = (2n+1)! / 2^n."
+  },
+  "A007020": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007020 Maximal planar degree sequences with n nodes."
+  },
+  "A007021": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007021 Number of 4-connected simplicial polyhedra with n nodes."
+  },
+  "A007022": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007022 Number of 4-regular polyhedra with n nodes."
+  },
+  "A007023": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007023 Number of 4-connected 4-regular polyhedra with n nodes."
+  },
+  "A007024": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007024 Number of polyhedral graphs with n faces and minimal degree 4."
+  },
+  "A007025": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007025 Number of polyhedral graphs with n nodes and minimal degree 4."
+  },
+  "A007026": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007026 Number of 4-connected polyhedral graphs with n faces."
+  },
+  "A007027": {
+    "complexity": 39,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007027 Number of 4-connected polyhedral graphs with n nodes."
+  },
+  "A007028": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007028 Number of bipartite polyhedral graphs with n nodes."
+  },
+  "A007029": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007029 Number of bipartite polyhedral graphs with n faces."
+  },
+  "A007030": {
+    "complexity": 30,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007030 Non-Hamiltonian simplicial polyhedra with n nodes."
+  },
+  "A007031": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007031 Non-Hamiltonian 1-tough simplicial polyhedra with n nodes."
+  },
+  "A007032": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007032 Number of non-Hamiltonian polyhedra with n faces."
+  },
+  "A007033": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007033 Non-Hamiltonian polyhedra with n nodes."
+  },
+  "A007034": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007034 Noncircumscribable simplicial polyhedra with n nodes."
+  },
+  "A007035": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007035 Number of non-1-Hamiltonian simplicial polyhedra with n nodes."
+  },
+  "A007036": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007036 Number of 1-supertough but non-1-Hamiltonian simplicial polyhedra with n nodes."
+  },
+  "A007037": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007037 Noninscribable simplicial polyhedra with n nodes."
+  },
+  "A007038": {
+    "complexity": 40,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007038 Theta series of 20-dimensional lattice R_20 with det 1024 and minimal norm 4."
+  },
+  "A007039": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007039 Number of cyclic binary n-bit strings with no alternating substring of length > 2."
+  },
+  "A007040": {
+    "complexity": 40,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007040 Number of (marked) cyclic n-bit binary strings containing no runs of length > 2."
+  },
+  "A007041": {
+    "complexity": 66,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007041 State assignments for n-state machine."
+  },
+  "A007042": {
+    "complexity": 25,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007042 Left diagonal of partition triangle A047812."
+  },
+  "A007043": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007043 Number of noncommutative SL(2,C)-invariants of degree n in 5 variables."
+  },
+  "A007044": {
+    "complexity": 28,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007044 Left diagonal of partition triangle A047812."
+  },
+  "A007045": {
+    "complexity": 28,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007045 Second (lower) diagonal of partition triangle A047812."
+  },
+  "A007046": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007046 Number of irreducible positions of size n in Montreal solitaire."
+  },
+  "A007047": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007047 Number of chains in power set of n-set."
+  },
+  "A007048": {
+    "complexity": 38,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007048 Number of irreducible positions of size n in Montreal solitaire."
+  },
+  "A007049": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007049 Number of irreducible positions of size n in Montreal solitaire."
+  },
+  "A007050": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007050 Number of irreducible positions of size n in Montreal solitaire."
+  },
+  "A007051": {
+    "complexity": 70,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007051 a(n) = (3^n + 1)/2."
+  },
+  "A007052": {
+    "complexity": 64,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007052 Number of order-consecutive partitions of n."
+  },
+  "A007053": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A007053 Number of primes <= 2^n."
+  },
+  "A007054": {
+    "complexity": 46,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007054 Super ballot numbers: 6(2n)!/(n!(n+2)!)."
+  },
+  "A007055": {
+    "complexity": 30,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007055 Let S denote the palindromes in the language {0,1}*; a(n) = number of words of length n in the language SS."
+  },
+  "A007056": {
+    "complexity": 35,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007056 Let S denote the palindromes in the language {0,1,2}*; a(n) = number of words of length n in the language SS."
+  },
+  "A007057": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007057 Let S denote the palindromes in the language {0,1,2,3}*; a(n) = number of words of length n in the language SS."
+  },
+  "A007058": {
+    "complexity": 39,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007058 Let S denote the palindromes in the language {0,1,2,3,4}*; a(n) = number of words of length n in the language SS."
+  },
+  "A007059": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007059 Number of balanced ordered trees with n nodes."
+  },
+  "A007060": {
+    "complexity": 91,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007060 Number of ways n married couples can sit in a row without any spouses next to each other."
+  },
+  "A007061": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007061 The Ehrenfeucht-Mycielski sequence (1,2-version): a maximally unpredictable sequence."
+  },
+  "A007062": {
+    "complexity": 27,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A007062 Let P(n) of a sequence s(1),s(2),s(3),... be obtained by leaving s(1),...,s(n) fixed and reversing every n consecutive terms thereafter; apply P(2) to 1,2,3,... to get PS(2), then apply P(3) to PS(2) to get PS(3), then apply P(4) to PS(3), etc. This sequence is the limit of PS(n)."
+  },
+  "A007063": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007063 Main diagonal of Kimberling's expulsion array (A035486)."
+  },
+  "A007064": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007064 Numbers not of form \"nearest integer to n*tau\", tau = (1+sqrt(5))/2."
+  },
+  "A007065": {
+    "complexity": 57,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007065 Number of M-sequences from multicomplexes on at most 5 variables with no monomial of degree greater than n."
+  },
+  "A007066": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007066 a(n) = 1 + ceiling((n-1)*phi^2), phi = (1+sqrt(5))/2."
+  },
+  "A007067": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007067 Nearest integer to n*tau where tau = (1+sqrt(5))/2."
+  },
+  "A007068": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007068 a(n) = a(n-1) + (3+(-1)^n)*a(n-2)/2."
+  },
+  "A007069": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007069 First column of spectral array W(sqrt 2)."
+  },
+  "A007070": {
+    "complexity": 59,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A007070 a(n) = 4*a(n-1) - 2*a(n-2) with a(0) = 1, a(1) = 4."
+  },
+  "A007071": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007071 First row of 2-shuffle of spectral array W( sqrt 2 )."
+  },
+  "A007072": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007072 First column of array associated with monotonic justified array."
+  },
+  "A007073": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007073 First column of array associated with lexicographically justified array."
+  },
+  "A007074": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007074 First column of array associated with reverse lexicographically justified array."
+  },
+  "A007075": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007075 Number of irreducible positions of size n in Montreal solitaire."
+  },
+  "A007076": {
+    "complexity": 37,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007076 Number of irreducible positions of size n in Montreal solitaire."
+  },
+  "A007077": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007077 Optimal cost of search tree for searching an ordered array of n elements with cost k of probing element k."
+  },
+  "A007078": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007078 Optimal cost of search tree."
+  },
+  "A007079": {
+    "complexity": 146,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007079 Number of labeled regular tournaments with 2n+1 nodes."
+  },
+  "A007080": {
+    "complexity": 149,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007080 Number of labeled Eulerian digraphs with n nodes."
+  },
+  "A007081": {
+    "complexity": 96,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007081 Number of labeled Eulerian oriented graphs with n nodes."
+  },
+  "A007082": {
+    "complexity": 163,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007082 Number of Eulerian circuits on the complete graph K_{2n+1}, divided by (n-1)!^(2n+1)."
+  },
+  "A007083": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007083 Number of unlabeled trivalent 3-connected bipartite planar graphs with 2n nodes."
+  },
+  "A007084": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007084 Number of unlabeled trivalent 3-connected bipartite planar graphs with 2n nodes without subgraphs R2 and R4."
+  },
+  "A007085": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007085 Number of unlabeled trivalent 3-connected bipartite planar graphs with 2n nodes without subgraphs R1 and R4."
+  },
+  "A007086": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007086 Next term is uniquely the sum of 3 earlier terms."
+  },
+  "A007087": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007087 Next term is uniquely the sum of 3 earlier terms."
+  },
+  "A007088": {
+    "complexity": 30,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007088 The binary numbers (or binary words, or binary vectors, or binary expansion of n): numbers written in base 2."
+  },
+  "A007089": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007089 Numbers in base 3."
+  },
+  "A007090": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007090 Numbers in base 4."
+  },
+  "A007091": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007091 Numbers in base 5."
+  },
+  "A007092": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007092 Numbers in base 6."
+  },
+  "A007093": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007093 Numbers in base 7."
+  },
+  "A007094": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007094 Numbers in base 8."
+  },
+  "A007095": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007095 Numbers in base 9."
+  },
+  "A007096": {
+    "complexity": 28,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007096 Expansion of theta_3 / theta_4."
+  },
+  "A007097": {
+    "complexity": 73,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A007097 Primeth recurrence: a(n+1) = a(n)-th prime."
+  },
+  "A007098": {
+    "complexity": 39,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007098 Number of unlabeled bisectable trees with 2n+1 nodes."
+  },
+  "A007099": {
+    "complexity": 81,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007099 Number of labeled trivalent (or cubic) 2-connected graphs with 2n nodes."
+  },
   "A008000": {
     "complexity": 21,
     "dimensions": [
@@ -841,6 +7631,816 @@
     ],
     "name": "A008009 Coordination sequence T3 for Zeolite Code AET."
   },
+  "A008010": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008010 Coordination sequence T4 for Zeolite Code AET."
+  },
+  "A008011": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008011 Coordination sequence T5 for Zeolite Code AET."
+  },
+  "A008012": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008012 Coordination sequence T1 for Zeolite Code AFG."
+  },
+  "A008013": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008013 Coordination sequence occurring in Zeolite Codes AFG, CAN, LIO, LOS."
+  },
+  "A008014": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008014 Coordination sequence T1 for Zeolite Code AFI."
+  },
+  "A008015": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008015 Coordination sequence T1 for Zeolite Code AFO."
+  },
+  "A008016": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008016 Coordination sequence T2 for Zeolite Code AFO."
+  },
+  "A008017": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008017 Coordination sequence T3 for Zeolite Code AFO."
+  },
+  "A008018": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008018 Coordination sequence T4 for Zeolite Code AFO."
+  },
+  "A008019": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008019 Coordination sequence T1 for Zeolite Code AFR."
+  },
+  "A008020": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008020 Coordination sequence T2 for Zeolite Code AFR."
+  },
+  "A008021": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008021 Coordination sequence T3 for Zeolite Code AFR."
+  },
+  "A008022": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008022 Coordination sequence T4 for Zeolite Code AFR."
+  },
+  "A008023": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008023 Coordination sequence T1 for Zeolite Code AFS."
+  },
+  "A008024": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008024 Coordination sequence T2 for Zeolite Code AFS."
+  },
+  "A008025": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008025 Coordination sequence T3 for Zeolite Code AFS and BPH."
+  },
+  "A008026": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008026 Coordination sequence T1 for Zeolite Code AFT."
+  },
+  "A008027": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008027 Coordination sequence T2 for Zeolite Code AFT."
+  },
+  "A008028": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008028 Coordination sequence T3 for Zeolite Code AFT."
+  },
+  "A008029": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008029 Coordination sequence T1 for Zeolite Code AFY."
+  },
+  "A008030": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008030 Coordination sequence T2 for Zeolite Code AFY."
+  },
+  "A008031": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008031 Coordination sequence T1 for Zeolite Code ANA."
+  },
+  "A008032": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008032 Coordination sequence T1 for Zeolite Code APC."
+  },
+  "A008033": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008033 Coordination sequence T2 for Zeolite Code APC."
+  },
+  "A008034": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008034 Coordination sequence T1 for Zeolite Code APD."
+  },
+  "A008035": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008035 Coordination sequence T2 for Zeolite Code APD."
+  },
+  "A008036": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008036 Coordination sequence T1 for Zeolite Code AST."
+  },
+  "A008037": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008037 Coordination sequence T2 for Zeolite Code AST."
+  },
+  "A008038": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008038 Coordination sequence T1 for Zeolite Code ATS."
+  },
+  "A008039": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008039 Coordination sequence T2 for Zeolite Code ATS."
+  },
+  "A008040": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008040 Coordination sequence T3 for Zeolite Code ATS."
+  },
+  "A008041": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008041 Coordination sequence T1 for Zeolite Code ATT."
+  },
+  "A008042": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008042 Coordination sequence T2 for Zeolite Code ATT."
+  },
+  "A008043": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008043 Coordination sequence T1 for Zeolite Code ATV."
+  },
+  "A008044": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008044 Coordination sequence T2 for Zeolite Code ATV."
+  },
+  "A008045": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008045 Coordination sequence T1 for Zeolite Code AWW."
+  },
+  "A008046": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008046 Coordination sequence T2 for Zeolite Code AWW."
+  },
+  "A008047": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008047 Coordination sequence T1 for Zeolite Code BIK."
+  },
+  "A008048": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008048 Coordination sequence T2 for Zeolite Code BIK."
+  },
+  "A008049": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008049 Coordination sequence T1 for Zeolite Code BOG."
+  },
+  "A008050": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008050 Coordination sequence T2 for Zeolite Code BOG."
+  },
+  "A008051": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008051 Coordination sequence T3 for Zeolite Code BOG."
+  },
+  "A008052": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008052 Coordination sequence T4 for Zeolite Code BOG."
+  },
+  "A008053": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008053 Coordination sequence T5 for Zeolite Code BOG."
+  },
+  "A008054": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008054 Coordination sequence T6 for Zeolite Code BOG."
+  },
+  "A008055": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008055 Coordination sequence T1 for Zeolite Code BPH."
+  },
+  "A008056": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008056 Coordination sequence T2 for Zeolite Code BPH."
+  },
+  "A008057": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008057 Smallest sum of an addition chain for 2n+1."
+  },
+  "A008058": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008058 Coordination sequence T1 for Zeolite Code BRE."
+  },
+  "A008059": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008059 Coordination sequence T2 for Zeolite Code BRE."
+  },
+  "A008060": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008060 Coordination sequence T3 for Zeolite Code BRE."
+  },
+  "A008061": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008061 Coordination sequence T4 for Zeolite Code BRE."
+  },
+  "A008062": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008062 a(n) = maximal value of m such that an n X m radar array exists. (A (0,1) matrix A such that any horizontal shift of A overlaps A in at most a single 1.)"
+  },
+  "A008063": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008063 Coordination sequence T1 for Zeolite Code CAS."
+  },
+  "A008064": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008064 Coordination sequence T2 for Zeolite Code CAS."
+  },
+  "A008065": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008065 Coordination sequence T3 for Zeolite Code CAS."
+  },
+  "A008066": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008066 Coordination sequence T1 for Zeolite Code CHA."
+  },
+  "A008067": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008067 Coordination sequence T1 for Zeolite Code DAC."
+  },
+  "A008068": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008068 Coordination sequence T2 for Zeolite Code DAC."
+  },
+  "A008069": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008069 Coordination sequence T3 for Zeolite Code DAC."
+  },
+  "A008070": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008070 Coordination sequence T4 for Zeolite Code DAC."
+  },
+  "A008071": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008071 Coordination sequence T1 for Zeolite Code DDR."
+  },
+  "A008072": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008072 Coordination sequence T2 for Zeolite Code DDR."
+  },
+  "A008073": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008073 Coordination sequence T3 for Zeolite Code DDR."
+  },
+  "A008074": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008074 Coordination sequence T4 for Zeolite Code DDR."
+  },
+  "A008075": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008075 Coordination sequence T5 for Zeolite Code DDR."
+  },
+  "A008076": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008076 Coordination sequence T6 for Zeolite Code DDR."
+  },
+  "A008077": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008077 Coordination sequence T7 for Zeolite Code DDR."
+  },
+  "A008078": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008078 Coordination sequence T1 for Zeolite Code DOH."
+  },
+  "A008079": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008079 Coordination sequence T2 for Zeolite Code DOH."
+  },
+  "A008080": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008080 Coordination sequence T3 for Zeolite Code DOH."
+  },
+  "A008081": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008081 Coordination sequence T4 for Zeolite Code DOH."
+  },
+  "A008082": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008082 Coordination sequence T1 for Zeolite Code EAB."
+  },
+  "A008083": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008083 Coordination sequence T2 for Zeolite Code EAB and OFF."
+  },
+  "A008084": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008084 Coordination sequence T1 for Zeolite Code ACO, ASV, EDI, and THO."
+  },
+  "A008085": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008085 Coordination sequence T2 for Zeolite Code EDI."
+  },
+  "A008086": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008086 Coordination sequence T1 for Zeolite Code EMT."
+  },
+  "A008087": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008087 Coordination sequence T2 for Zeolite Code EMT."
+  },
+  "A008088": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008088 Coordination sequence T3 for Zeolite Code EMT."
+  },
+  "A008089": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008089 Coordination sequence T4 for Zeolite Code EMT."
+  },
+  "A008090": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008090 Coordination sequence T1 for Zeolite Code EPI."
+  },
+  "A008091": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008091 Coordination sequence T2 for Zeolite Code EPI."
+  },
+  "A008092": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008092 Coordination sequence T3 for Zeolite Code EPI."
+  },
+  "A008093": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008093 Coordination sequence T1 for Zeolite Code ERI and OFF."
+  },
+  "A008094": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008094 Coordination sequence T2 for Zeolite Code ERI."
+  },
+  "A008095": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008095 Coordination sequence T1 for Zeolite Code EUO."
+  },
+  "A008096": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008096 Coordination sequence T10 for Zeolite Code EUO."
+  },
+  "A008097": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008097 Coordination sequence T2 for Zeolite Code EUO."
+  },
+  "A008098": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008098 Coordination sequence T3 for Zeolite Code EUO."
+  },
+  "A008099": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008099 Coordination sequence T4 for Zeolite Code EUO."
+  },
   "A009000": {
     "complexity": 23,
     "dimensions": [
@@ -930,5 +8530,819 @@
       "salience"
     ],
     "name": "A009009 Expansion of e.g.f.: 1/cos(sinh(x)) (even-indexed coefficients only)."
+  },
+  "A009010": {
+    "complexity": 75,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009010 Expansion of e.g.f.: 1/cos(tan(x)) (even-indexed coefficients only)."
+  },
+  "A009011": {
+    "complexity": 73,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009011 Expansion of e.g.f.: 1/cos(tanh(x)) (even-indexed coefficients only)."
+  },
+  "A009012": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009012 Ordered long legs of Pythagorean triangles."
+  },
+  "A009013": {
+    "complexity": 100,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009013 Expansion of E.g.f.: 1/(cosh(x)*cos(x)) (only powers that are multiples of 4)."
+  },
+  "A009014": {
+    "complexity": 53,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009014 Expansion of E.g.f.: (1 + x)/(1 + x + x^2/2)."
+  },
+  "A009015": {
+    "complexity": 71,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009015 Expansion of e.g.f.: cos(x*cos(x)) (even powers only)."
+  },
+  "A009016": {
+    "complexity": 57,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009016 Expansion of E.g.f.: cos(cosh(x)*x) (even powers only)."
+  },
+  "A009017": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009017 Expansion of e.g.f. cos(x*exp(x))."
+  },
+  "A009018": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009018 Expansion of e.g.f.: cos(log(1+log(1+x)))."
+  },
+  "A009019": {
+    "complexity": 46,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009019 Expansion of cos(log(1 + sin(x)))."
+  },
+  "A009020": {
+    "complexity": 49,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009020 Expansion of e.g.f.: cos(log(1 + sinh(x)))."
+  },
+  "A009021": {
+    "complexity": 49,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009021 Expansion of e.g.f. cos(log(1+tan(x)))."
+  },
+  "A009022": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A009022 Expansion of e.g.f. cos(log(1+tanh(x)))."
+  },
+  "A009023": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009023 Long legs of Pythagorean triangles."
+  },
+  "A009024": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009024 Expansion of e.g.f.: x*cos(log(1+x))."
+  },
+  "A009025": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009025 Expansion of e.g.f.: cos(log(1+x))/cos(x)."
+  },
+  "A009026": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009026 Expansion of cos(log(1+x))/cosh(x)."
+  },
+  "A009027": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009027 Expansion of cos(log(1+x))/exp(x)."
+  },
+  "A009028": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009028 Expansion of cos(log(1+x)*cos(x))."
+  },
+  "A009029": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009029 Expansion of cos(log(1+x)*cosh(x))."
+  },
+  "A009030": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009030 Expansion of e.g.f. cos(log(1+x)*exp(x))."
+  },
+  "A009031": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009031 Expansion of cos(x*log(1+x))."
+  },
+  "A009032": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009032 Expansion of cos(log(1+x)/cos(x))."
+  },
+  "A009033": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009033 Expansion of e.g.f.: cos(log(1+x)/cosh(x))."
+  },
+  "A009034": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009034 Expansion of e.g.f. cos(log(1+x)/exp(x))."
+  },
+  "A009035": {
+    "complexity": 52,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009035 Expansion of e.g.f.: cos(log(1+x)^2)."
+  },
+  "A009036": {
+    "complexity": 52,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009036 Expansion of cos(sin(log(1+x)))."
+  },
+  "A009037": {
+    "complexity": 64,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009037 Expansion of E.g.f. cos(sin(sin(x))), even powers only."
+  },
+  "A009038": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009038 Expansion of E.g.f. cos(sin(sinh(x))), even powers only."
+  },
+  "A009039": {
+    "complexity": 66,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009039 Expansion of E.g.f. cos(sin(tan(x))), even powers only."
+  },
+  "A009040": {
+    "complexity": 66,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009040 Expansion of E.g.f. cos(sin(tanh(x))), even powers only."
+  },
+  "A009041": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009041 Ordered legs of Pythagorean triangles."
+  },
+  "A009042": {
+    "complexity": 60,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009042 Expansion of x*cos(sin(x)), odd terms only."
+  },
+  "A009043": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009043 Expansion of cos(sin(x))/cos(x), even terms only."
+  },
+  "A009044": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009044 Expansion of cos(sin(x))/cosh(x), even terms only."
+  },
+  "A009045": {
+    "complexity": 44,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009045 Expansion of cos(sin(x))/exp(x)."
+  },
+  "A009046": {
+    "complexity": 71,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009046 Expansion of cos(sin(x)*cos(x)), even terms only."
+  },
+  "A009047": {
+    "complexity": 60,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009047 Expansion of cos(sin(x)*cosh(x)), even terms only."
+  },
+  "A009048": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009048 Expansion of e.g.f. cos(sin(x)*exp(x))."
+  },
+  "A009049": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009049 Expansion of cos(sin(x)*log(1+x))."
+  },
+  "A009050": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009050 Expansion of e.g.f. cos(x*sin(x)) (even power only)."
+  },
+  "A009051": {
+    "complexity": 78,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009051 Expansion of e.g.f. cos(sin(x)/cosh(x)), even powers only."
+  },
+  "A009052": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009052 Expansion of e.g.f. cos(sin(x)^2), even terms only."
+  },
+  "A009053": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009053 Expansion of e.g.f. cos(sinh(log(1+x)))."
+  },
+  "A009054": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009054 Expansion of e.g.f. cos(sinh(sin(x))), even terms only."
+  },
+  "A009055": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009055 Expansion of e.g.f. cos(sinh(tan(x))), even terms only."
+  },
+  "A009056": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009056 Numbers >= 3."
+  },
+  "A009057": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009057 Expansion of e.g.f. x*cos(sinh(x)) (odd powers only)."
+  },
+  "A009058": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009058 Expansion of e.g.f. cos(sinh(x))/cos(x), even terms only."
+  },
+  "A009059": {
+    "complexity": 44,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009059 Expansion of e.g.f. cos(sinh(x))/exp(x)."
+  },
+  "A009060": {
+    "complexity": 59,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009060 Expansion of e.g.f. cos(sinh(x)*cos(x)), even terms only."
+  },
+  "A009061": {
+    "complexity": 48,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009061 Expansion of e.g.f. cos(sinh(x)*exp(x))."
+  },
+  "A009062": {
+    "complexity": 49,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009062 Expansion of e.g.f.: cos(sinh(x)*log(1+x))."
+  },
+  "A009063": {
+    "complexity": 87,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009063 Expansion of e.g.f. cos(sinh(x)*sin(x)) in powers of x^4."
+  },
+  "A009064": {
+    "complexity": 61,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009064 Expansion of e.g.f. cos(sinh(x)/cos(x)), even powers only."
+  },
+  "A009065": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009065 Expansion of e.g.f. cos(tan(log(1+x)))."
+  },
+  "A009066": {
+    "complexity": 62,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009066 Expansion of e.g.f. cos(tan(sin(x))), even terms only."
+  },
+  "A009067": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009067 Expansion of e.g.f. cos(tan(sinh(x))), even terms only."
+  },
+  "A009068": {
+    "complexity": 68,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009068 Expansion of e.g.f. cos(tan(tan(x))), even terms only."
+  },
+  "A009069": {
+    "complexity": 64,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009069 Expansion of e.g.f. cos(tan(tanh(x))), even terms only."
+  },
+  "A009070": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009070 Ordered sides of Pythagorean triangles."
+  },
+  "A009071": {
+    "complexity": 76,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009071 Expansion of e.g.f. cos(tan(x))*x, odd terms only."
+  },
+  "A009072": {
+    "complexity": 67,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009072 Expansion of e.g.f. cos(tan(x))/cos(x), even-indexed terms only."
+  },
+  "A009073": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009073 Expansion of e.g.f. cos(tan(x))/cosh(x), even terms only."
+  },
+  "A009074": {
+    "complexity": 48,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009074 Expansion of e.g.f. cos(tan(x))/exp(x)."
+  },
+  "A009075": {
+    "complexity": 62,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009075 Expansion of e.g.f. cos(tan(x)*cosh(x)), even terms only."
+  },
+  "A009076": {
+    "complexity": 49,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009076 Expansion of e.g.f. cos(tan(x)*exp(x))."
+  },
+  "A009077": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009077 Expansion of e.g.f. cos(tan(x)*log(1+x))."
+  },
+  "A009078": {
+    "complexity": 66,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009078 Expansion of e.g.f. cos(tan(x)*sin(x)) (even powers only)."
+  },
+  "A009079": {
+    "complexity": 74,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009079 Expansion of e.g.f. cos(tan(x)*sinh(x)), even powers only."
+  },
+  "A009080": {
+    "complexity": 67,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009080 Expansion of e.g.f. cos(x*tan(x)), even terms only."
+  },
+  "A009081": {
+    "complexity": 78,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009081 E.g.f. is cos(tan(x)/cos(x)), coefficients of even powers of x."
+  },
+  "A009082": {
+    "complexity": 61,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009082 Expansion of e.g.f. cos(tan(x)/cosh(x)), even terms only."
+  },
+  "A009083": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009083 Expansion of e.g.f. cos(tan(x)^2) (even powers only)."
+  },
+  "A009084": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009084 Expansion of e.g.f.: cos(tanh(log(1+x)))."
+  },
+  "A009085": {
+    "complexity": 67,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009085 Expansion of e.g.f. cos(tanh(sin(x))), even powers only."
+  },
+  "A009086": {
+    "complexity": 61,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009086 Expansion of e.g.f. cos(tanh(tan(x))), even powers only."
+  },
+  "A009087": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A009087 Numbers whose number of divisors is prime (i.e., numbers of the form p^(q-1) for primes p,q)."
+  },
+  "A009088": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009088 Expansion of e.g.f. x*cos(tanh(x)), odd powers only."
+  },
+  "A009089": {
+    "complexity": 67,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009089 Expansion of e.g.f. cos(tanh(x))/cos(x), even powers only."
+  },
+  "A009090": {
+    "complexity": 49,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009090 Expansion of e.g.f. cos(tanh(x))/exp(x)."
+  },
+  "A009091": {
+    "complexity": 65,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009091 Expansion of e.g.f. cos(tanh(x)*cos(x)), even powers only."
+  },
+  "A009092": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009092 Expansion of e.g.f. cos(tanh(x)*exp(x))."
+  },
+  "A009093": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009093 Expansion of e.g.f. cos(tanh(x)*log(1+x))."
+  },
+  "A009094": {
+    "complexity": 103,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009094 Expansion of e.g.f. cos(tanh(x)*tan(x)) (only powers that are multiples of 4)."
+  },
+  "A009095": {
+    "complexity": 66,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009095 Expansion of e.g.f. cos(tanh(x)/cos(x)), even powers only."
+  },
+  "A009096": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009096 Ordered perimeters of Pythagorean triangles."
+  },
+  "A009097": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009097 Expansion of e.g.f. cos(x)*cos(log(1+x))."
+  },
+  "A009098": {
+    "complexity": 60,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009098 Expansion of e.g.f. cos(x)*cos(sinh(x)), even powers only."
+  },
+  "A009099": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009099 Expansion of e.g.f. cos(x)*cos(tan(x)), even powers only."
   }
 }

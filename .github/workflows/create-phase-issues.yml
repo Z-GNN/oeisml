@@ -1,0 +1,68 @@
+name: Create Distributed Agentic Cognitive Grammar Network Phase Issues
+
+on:
+  workflow_dispatch:
+    inputs:
+      create_all_phases:
+        description: 'Create issues for all 6 phases'
+        required: false
+        default: 'true'
+        type: boolean
+      phase_number:
+        description: 'Create issue for specific phase (1-6, ignored if create_all_phases is true)'
+        required: false
+        default: '1'
+        type: choice
+        options:
+        - '1'
+        - '2'
+        - '3'
+        - '4'
+        - '5'
+        - '6'
+  schedule:
+    # Run weekly on Sundays at 09:00 UTC to create/update phase tracking
+    - cron: '0 9 * * 0'
+
+env:
+  NODE_VERSION: '20'
+
+jobs:
+  create-phase-issues:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ env.NODE_VERSION }}
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm install
+      
+    - name: Create Phase Issues
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        CREATE_ALL_PHASES: ${{ github.event.inputs.create_all_phases || 'true' }}
+        PHASE_NUMBER: ${{ github.event.inputs.phase_number || '1' }}
+      run: |
+        node scripts/create-phase-issues.js \
+          --create-all="${CREATE_ALL_PHASES}" \
+          --phase="${PHASE_NUMBER}" \
+          --repo="${{ github.repository }}" \
+          --token="${GITHUB_TOKEN}"
+          
+    - name: Summary
+      run: |
+        echo "## Phase Issues Creation Summary" >> $GITHUB_STEP_SUMMARY
+        echo "- Repository: ${{ github.repository }}" >> $GITHUB_STEP_SUMMARY
+        echo "- Create All Phases: ${{ github.event.inputs.create_all_phases || 'true' }}" >> $GITHUB_STEP_SUMMARY
+        echo "- Specific Phase: ${{ github.event.inputs.phase_number || 'N/A' }}" >> $GITHUB_STEP_SUMMARY
+        echo "- Triggered by: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
