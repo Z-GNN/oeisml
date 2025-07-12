@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2025-07-12T05:56:49.663Z",
+  "documentation_depth": 3,
+  "generated_files": [
+    "docs/complete-architecture.md",
+    "docs/mermaid-diagrams/main-architecture.mmd",
+    "docs/mermaid-diagrams/attention-flow.mmd",
+    "docs/mermaid-diagrams/tensor-pipeline.mmd",
+    "docs/mermaid-diagrams/mesh-topology.mmd",
+    "docs/mermaid-diagrams/integration-architecture.mmd"
+  ],
+  "statistics": {
+    "total_diagrams": 5,
+    "total_sections": 8,
+    "cognitive_nodes": 0,
+    "attention_focused": 0
+  }
+}

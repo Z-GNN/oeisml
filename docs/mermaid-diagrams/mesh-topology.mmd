@@ -1,0 +1,15 @@
+graph TB
+    subgraph "Cognitive Mesh Architecture"\n    end
+    
+    subgraph "Load Balancing"
+        LB1[Load Monitor] --> LB2[Resource Allocation]
+        LB2 --> LB3[Performance Optimization]
+    end
+    
+    subgraph "Communication Layer"
+        C1[Message Routing] --> C2[Protocol Handling]
+        C2 --> C3[Error Recovery]
+    end
+    
+    style LB1 fill:#e8f5e8
+    style C1 fill:#fff3e0

@@ -1,0 +1,60 @@
+{
+  "cognitive_kernel_connector": {
+    "type": "ggml_tensor_interface",
+    "description": "Connects Agent Zero runtime to GGML cognitive kernels",
+    "interface": {
+      "tensor_operations": [
+        "tensor_load",
+        "tensor_compute",
+        "tensor_store",
+        "tensor_synchronize"
+      ],
+      "cognitive_operations": [
+        "attention_query",
+        "memory_access",
+        "pattern_match",
+        "activation_spread"
+      ]
+    },
+    "configuration": {
+      "tensor_cache_path": ".ggml_cache",
+      "cognitive_registry_path": ".cognitive_registry",
+      "batch_size": 32,
+      "compute_device": "cpu"
+    }
+  },
+  "attention_connector": {
+    "type": "ecan_attention_interface",
+    "description": "Connects to ECAN attention allocation system",
+    "interface": {
+      "attention_operations": [
+        "get_attention_value",
+        "update_attention",
+        "focus_query",
+        "stimulation_event"
+      ]
+    },
+    "configuration": {
+      "update_frequency": 1000,
+      "spreading_activation": true,
+      "focus_size": 15
+    }
+  },
+  "mesh_connector": {
+    "type": "cognitive_mesh_interface",
+    "description": "Connects to distributed cognitive mesh",
+    "interface": {
+      "mesh_operations": [
+        "node_discover",
+        "message_route",
+        "load_balance",
+        "health_check"
+      ]
+    },
+    "configuration": {
+      "discovery_protocol": "cognitive_broadcast",
+      "routing_algorithm": "attention_weighted",
+      "load_balancing": true
+    }
+  }
+}

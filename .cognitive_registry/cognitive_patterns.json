@@ -1,0 +1,934 @@
+{
+  "A000001": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A000001 Number of groups of order n."
+  },
+  "A000002": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000002 Kolakoski sequence: a(n) is length of n-th run; a(1) = 1; sequence consists just of 1's and 2's."
+  },
+  "A000003": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000003 Number of classes of primitive positive definite binary quadratic forms of discriminant D = -4n; or equivalently the class number of the quadratic order of discriminant D = -4n."
+  },
+  "A000004": {
+    "complexity": 8,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000004 The zero sequence."
+  },
+  "A000005": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000005 d(n) (also called tau(n) or sigma_0(n)), the number of divisors of n."
+  },
+  "A000006": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A000006 Integer part of square root of n-th prime."
+  },
+  "A000007": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000007 The characteristic function of {0}: a(n) = 0^n."
+  },
+  "A000008": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000008 Number of ways of making change for n cents using coins of 1, 2, 5, 10 cents."
+  },
+  "A000009": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A000009 Expansion of Product_{m >= 1} (1 + x^m); number of partitions of n into distinct parts; number of partitions of n into odd parts."
+  },
+  "A000010": {
+    "complexity": 47,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization",
+      "algebraic_structure",
+      "symmetry",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A000010 Euler totient function phi(n): count numbers <= n and prime to n."
+  },
+  "A001000": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001000 a(n) = least m such that if a/b < c/d where a,b,c,d are integers in [0,n], then a/b < k/m < c/d for some integer k."
+  },
+  "A001001": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001001 Number of sublattices of index n in generic 3-dimensional lattice."
+  },
+  "A001002": {
+    "complexity": 53,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001002 Number of dissections of a convex (n+2)-gon into triangles and quadrilaterals by nonintersecting diagonals."
+  },
+  "A001003": {
+    "complexity": 95,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001003 Schroeder's second problem (generalized parentheses); also called super-Catalan numbers or little Schroeder numbers."
+  },
+  "A001004": {
+    "complexity": 46,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001004 Number of nonequivalent dissections of an (n+2)-gon by nonintersecting diagonals up to rotation and reflection."
+  },
+  "A001005": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001005 Number of ways of partitioning n points on a circle into subsets only of sizes 2 and 3."
+  },
+  "A001006": {
+    "complexity": 116,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001006 Motzkin numbers: number of ways of drawing any number of nonintersecting chords joining n (labeled) points on a circle."
+  },
+  "A001007": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A001007 a(n) = ( Sum C(p,i); i=1,...,floor(2p/3) ) / p^2, where p = prime(n)."
+  },
+  "A001008": {
+    "complexity": 52,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A001008 a(n) = numerator of harmonic number H(n) = Sum_{i=1..n} 1/i."
+  },
+  "A001009": {
+    "complexity": 38,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A001009 Triangle giving number L(n,k) of normalized k X n Latin rectangles."
+  },
+  "A002000": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002000 a(n+1) = a(n)*(a(n)^2 - 3) with a(0) = 7."
+  },
+  "A002001": {
+    "complexity": 52,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002001 a(n) = 3*4^(n-1), n>0; a(0)=1."
+  },
+  "A002002": {
+    "complexity": 53,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002002 a(n) = Sum_{k=0..n-1} binomial(n,k+1) * binomial(n+k,k)."
+  },
+  "A002003": {
+    "complexity": 50,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ],
+    "name": "A002003 a(n) = 2 * Sum_{k=0..n-1} binomial(n-1, k)*binomial(n+k, k)."
+  },
+  "A002004": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002004 Davenport-Schinzel numbers of degree 4 on n symbols."
+  },
+  "A002005": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002005 Number of rooted planar cubic maps with 2n vertices."
+  },
+  "A002006": {
+    "complexity": 26,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002006 Almost trivalent maps."
+  },
+  "A002007": {
+    "complexity": 25,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002007 Almost trivalent maps."
+  },
+  "A002008": {
+    "complexity": 28,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002008 Almost trivalent maps."
+  },
+  "A002009": {
+    "complexity": 28,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A002009 Almost trivalent maps."
+  },
+  "A003000": {
+    "complexity": 40,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003000 Number of bifix-free (or primary, or unbordered) words of length n over a two-letter alphabet."
+  },
+  "A003001": {
+    "complexity": 61,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003001 Smallest number of multiplicative persistence n."
+  },
+  "A003002": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003002 Size of the largest subset of the numbers [1...n] which does not contain a 3-term arithmetic progression."
+  },
+  "A003003": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003003 Size of the largest subset of the numbers [1...n] which doesn't contain a 4-term arithmetic progression."
+  },
+  "A003004": {
+    "complexity": 17,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003004 Size of the largest subset of the numbers [1..n] which does not contain a 5-term arithmetic progression."
+  },
+  "A003005": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003005 Size of the largest subset of the numbers [1..n] which doesn't contain a 6-term arithmetic progression."
+  },
+  "A003006": {
+    "complexity": 29,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003006 Number of n-level ladder expressions with A001622."
+  },
+  "A003007": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003007 Erroneous version of A082499."
+  },
+  "A003008": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003008 Number of n-level ladder expressions with A030798."
+  },
+  "A003009": {
+    "complexity": 81,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A003009 a(n+1) = a(n) + 4^(n-1) a(n)^2."
+  },
+  "A004000": {
+    "complexity": 41,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004000 RATS: Reverse Add Then Sort the digits applied to previous term, starting with 1."
+  },
+  "A004001": {
+    "complexity": 28,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004001 Hofstadter-Conway $10000 sequence: a(n) = a(a(n-1)) + a(n-a(n-1)) with a(1) = a(2) = 1."
+  },
+  "A004002": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004002 Benford numbers: a(n) = e^e^...^e (n times) rounded to nearest integer."
+  },
+  "A004003": {
+    "complexity": 127,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004003 Number of domino tilings (or dimer coverings) of a 2n X 2n square."
+  },
+  "A004004": {
+    "complexity": 56,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004004 a(n) = (3^(2*n+1) - 8*n - 3)/16."
+  },
+  "A004005": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004005 Coefficients of elliptic function sn."
+  },
+  "A004006": {
+    "complexity": 31,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A004006 a(n) = C(n,1) + C(n,2) + C(n,3), or n*(n^2 + 5)/6."
+  },
+  "A004007": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004007 Theta series of E_6 lattice."
+  },
+  "A004008": {
+    "complexity": 25,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004008 Expansion of theta series of E_7 lattice in powers of q^2."
+  },
+  "A004009": {
+    "complexity": 36,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A004009 Expansion of Eisenstein series E_4(q) (alternate convention E_2(q)); theta series of E_8 lattice."
+  },
+  "A005000": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005000 Erroneous version of A006505."
+  },
+  "A005001": {
+    "complexity": 53,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005001 a(n) = Sum_{k=0..n-1} Bell(k), where the Bell numbers Bell(k) are given in A000110."
+  },
+  "A005002": {
+    "complexity": 46,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005002 Number of rhyme schemes (see reference for precise definition)."
+  },
+  "A005003": {
+    "complexity": 46,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005003 Number of rhyme schemes (see reference for precise definition)."
+  },
+  "A005004": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005004 Davenport-Schinzel numbers of degree n on 3 symbols."
+  },
+  "A005005": {
+    "complexity": 18,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005005 Davenport-Schinzel numbers of degree n on 4 symbols."
+  },
+  "A005006": {
+    "complexity": 12,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005006 Davenport-Schinzel numbers of degree n on 5 symbols."
+  },
+  "A005007": {
+    "complexity": 13,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005007 Number of cubic (i.e., regular of degree 3) generalized Moore graphs with 2n nodes."
+  },
+  "A005008": {
+    "complexity": 58,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005008 a(n) = n! - n^2."
+  },
+  "A005009": {
+    "complexity": 33,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A005009 a(n) = 7*2^n."
+  },
+  "A006000": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006000 a(n) = (n+1)*(n^2+n+2)/2; g.f.: (1 + 2*x^2) / (1 - x)^4."
+  },
+  "A006001": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006001 Number of paraffins."
+  },
+  "A006002": {
+    "complexity": 29,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006002 a(n) = n*(n+1)^2/2."
+  },
+  "A006003": {
+    "complexity": 40,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A006003 a(n) = n*(n^2 + 1)/2."
+  },
+  "A006004": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006004 a(n) = C(n+2,3) + C(n,3) + C(n-1,3)."
+  },
+  "A006005": {
+    "complexity": 20,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ],
+    "name": "A006005 The odd prime numbers together with 1."
+  },
+  "A006006": {
+    "complexity": 27,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006006 Weight distribution of [ 128,29,32 ] 2nd-order Reed-Muller code."
+  },
+  "A006007": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006007 4-dimensional analog of centered polygonal numbers: a(n) = n(n+1)*(n^2+n+4)/12."
+  },
+  "A006008": {
+    "complexity": 27,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ],
+    "name": "A006008 Number of inequivalent ways to color vertices of a regular tetrahedron using <= n colors."
+  },
+  "A006009": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A006009 Number of paraffins."
+  },
+  "A007000": {
+    "complexity": 22,
+    "dimensions": [
+      "context",
+      "time",
+      "salience",
+      "recursion",
+      "golden_ratio"
+    ],
+    "name": "A007000 Number of partitions of n into Fibonacci parts (with 2 types of 1)."
+  },
+  "A007001": {
+    "complexity": 14,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007001 Trajectory of 1 under the morphism 1 -> 12, 2 -> 123, 3 -> 1234, etc."
+  },
+  "A007002": {
+    "complexity": 45,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007002 Sum of degrees of irreducible representations of alternating group A_n."
+  },
+  "A007003": {
+    "complexity": 59,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007003 Euler transform of numbers of preferential arrangements."
+  },
+  "A007004": {
+    "complexity": 63,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007004 a(n) = (3*n)! / ((n+1)*(n!)^3)."
+  },
+  "A007005": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007005 Number of characters in the French spelling of n, including spaces and hyphens."
+  },
+  "A007006": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007006 Number of edges in graph of maximal intersecting families of sets."
+  },
+  "A007007": {
+    "complexity": 32,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007007 Valence of graph of maximal intersecting families of sets."
+  },
+  "A007008": {
+    "complexity": 34,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007008 Chvatal conjecture for radius of graph of maximal intersecting sets."
+  },
+  "A007009": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A007009 Number of 3-voter voting schemes with n linearly ranked choices."
+  },
+  "A008000": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008000 Coordination sequence T1 for Zeolite Code ABW and ATN."
+  },
+  "A008001": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008001 Coordination sequence T1 for Zeolite Code AEI."
+  },
+  "A008002": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008002 Coordination sequence T2 for Zeolite Code AEI."
+  },
+  "A008003": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008003 Coordination sequence T3 for Zeolite Code AEI."
+  },
+  "A008004": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008004 Coordination sequence T1 for Zeolite Code AEL."
+  },
+  "A008005": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008005 Coordination sequence T2 for Zeolite Code AEL."
+  },
+  "A008006": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008006 Coordination sequence T3 for Zeolite Code AEL."
+  },
+  "A008007": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008007 Coordination sequence T1 for Zeolite Code AET."
+  },
+  "A008008": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008008 Coordination sequence T2 for Zeolite Code AET."
+  },
+  "A008009": {
+    "complexity": 21,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A008009 Coordination sequence T3 for Zeolite Code AET."
+  },
+  "A009000": {
+    "complexity": 23,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009000 Ordered hypotenuse numbers (squares are sums of 2 distinct nonzero squares)."
+  },
+  "A009001": {
+    "complexity": 16,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009001 Expansion of e.g.f: (1+x)*cos(x)."
+  },
+  "A009002": {
+    "complexity": 54,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009002 Expansion of (1+x)/cos(x)."
+  },
+  "A009003": {
+    "complexity": 24,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009003 Hypotenuse numbers (squares are sums of 2 nonzero squares)."
+  },
+  "A009004": {
+    "complexity": 15,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009004 Ordered short legs of Pythagorean triangles."
+  },
+  "A009005": {
+    "complexity": 19,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009005 All natural numbers except 1, 2 and 4."
+  },
+  "A009006": {
+    "complexity": 66,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009006 Expansion of e.g.f.: 1 + tan(x)."
+  },
+  "A009007": {
+    "complexity": 51,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009007 Expansion of 1/cos(log(1+x))."
+  },
+  "A009008": {
+    "complexity": 69,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009008 Expansion of e.g.f.: 1/cos(sin(x)) (even-indexed coefficients only)."
+  },
+  "A009009": {
+    "complexity": 76,
+    "dimensions": [
+      "context",
+      "time",
+      "salience"
+    ],
+    "name": "A009009 Expansion of e.g.f.: 1/cos(sinh(x)) (even-indexed coefficients only)."
+  }
+}

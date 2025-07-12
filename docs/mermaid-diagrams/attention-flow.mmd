@@ -1,0 +1,26 @@
+graph TD
+    subgraph "Attention Allocation Process"
+        A1[Input Stimulation] --> A2[STI Calculation]
+        A2 --> A3[LTI Update]
+        A3 --> A4[VLTI Maintenance]
+        A4 --> A5[Total Attention]
+    end
+    
+    subgraph "Spreading Activation"
+        A5 --> B1[Source Selection]
+        B1 --> B2[Neighbor Discovery]
+        B2 --> B3[Weight Calculation]
+        B3 --> B4[Activation Spread]
+    end
+    
+    subgraph "Focus Management"
+        B4 --> C1[Attention Ranking]
+        C1 --> C2[Focus Selection]
+        C2 --> C3[Resource Allocation]
+        C3 --> C4[Performance Monitoring]
+    end
+    
+    style A1 fill:#ffebee
+    style A5 fill:#e8f5e8
+    style C2 fill:#fff3e0
+    style C4 fill:#f3e5f5

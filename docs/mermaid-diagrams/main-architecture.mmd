@@ -1,0 +1,47 @@
+graph TB
+    subgraph "OEIS Data Layer"
+        A[OEIS Sequences] --> B[Sequence Parser]
+        B --> C[Cognitive Analysis]
+    end
+    
+    subgraph "GGML Tensor Layer"
+        C --> D[Tensor Shape Registry]
+        D --> E[GGML Tensorization]
+        E --> F[Tensor Optimization]
+    end
+    
+    subgraph "Agentic Grammar Layer"
+        F --> G[Grammar Adapters]
+        G --> H[Capability Mapping]
+        H --> I[Behavioral Patterns]
+    end
+    
+    subgraph "Cognitive Mesh Layer"
+        I --> J[Mesh Orchestration]
+        J --> K[Load Balancing]
+        K --> L[Cluster Management]
+    end
+    
+    subgraph "Attention System"
+        L --> M[ECAN Attention]
+        M --> N[Focus Selection]
+        N --> O[Resource Allocation]
+    end
+    
+    subgraph "Integration Layer"
+        O --> P[Agent Zero Bridge]
+        O --> Q[Bolt.diy Bridge]
+        O --> R[OpenCog AtomSpace]
+    end
+    
+    subgraph "Hypergraph Layer"
+        R --> S[Hypergraph Encoding]
+        S --> T[Embedding Generation]
+        T --> U[Similarity Computation]
+    end
+    
+    style A fill:#e1f5fe
+    style E fill:#f3e5f5
+    style J fill:#e8f5e8
+    style M fill:#fff3e0
+    style R fill:#fce4ec

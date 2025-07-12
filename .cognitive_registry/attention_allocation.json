@@ -1,0 +1,29 @@
+{
+  "attention_values": {},
+  "stimulation_values": {},
+  "focused_nodes": [],
+  "resource_allocation": {},
+  "metrics": {
+    "attention_distribution": {
+      "total_nodes": 0,
+      "focused_nodes": 0,
+      "mean_sti": 0,
+      "std_sti": null,
+      "mean_lti": 0,
+      "std_lti": null,
+      "mean_total_attention": 0,
+      "attention_entropy": 0
+    },
+    "focus_metrics": {
+      "focus_concentration": 0,
+      "focus_stability": 0,
+      "attention_span": 0
+    },
+    "stimulation_metrics": {
+      "active_stimulations": 0,
+      "average_stimulation": 0,
+      "stimulation_variance": null
+    }
+  },
+  "timestamp": "2025-07-12T05:56:42.882Z"
+}

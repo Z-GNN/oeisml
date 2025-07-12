@@ -1,0 +1,34 @@
+graph LR
+    subgraph "Data Ingestion"
+        I1[OEIS Files] --> I2[Parser]
+        I2 --> I3[Validation]
+    end
+    
+    subgraph "Analysis Phase"
+        I3 --> A1[Complexity Analysis]
+        A1 --> A2[Semantic Extraction]
+        A2 --> A3[Dimension Mapping]
+    end
+    
+    subgraph "Tensorization"
+        A3 --> T1[Shape Calculation]
+        T1 --> T2[Data Normalization]
+        T2 --> T3[GGML Formatting]
+    end
+    
+    subgraph "Optimization"
+        T3 --> O1[Memory Alignment]
+        O1 --> O2[Quantization]
+        O2 --> O3[Cache Storage]
+    end
+    
+    subgraph "Integration"
+        O3 --> R1[Grammar Mapping]
+        R1 --> R2[Mesh Registration]
+        R2 --> R3[Attention Assignment]
+    end
+    
+    style I1 fill:#e3f2fd
+    style T1 fill:#f1f8e9
+    style O1 fill:#fff8e1
+    style R1 fill:#fce4ec

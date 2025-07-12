@@ -1,0 +1,117 @@
+{
+  "batchNumber": 1,
+  "processedSequences": [
+    "A000001",
+    "A000002",
+    "A000003",
+    "A000004",
+    "A000006",
+    "A000007",
+    "A000008",
+    "A000009",
+    "A001000",
+    "A001001",
+    "A001002",
+    "A001003",
+    "A001004",
+    "A001005",
+    "A001006",
+    "A001007",
+    "A001008",
+    "A001009"
+  ],
+  "tensorFiles": [
+    {
+      "jsonPath": ".ggml_cache/batch_1/A000001_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A000001_tensor.bin",
+      "size": 8294400
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A000002_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A000002_tensor.bin",
+      "size": 101376
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A000003_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A000003_tensor.bin",
+      "size": 1995840
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A000004_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A000004_tensor.bin",
+      "size": 9600
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A000006_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A000006_tensor.bin",
+      "size": 2217600
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A000007_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A000007_tensor.bin",
+      "size": 43008
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A000008_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A000008_tensor.bin",
+      "size": 55296
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A000009_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A000009_tensor.bin",
+      "size": 110592
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A001000_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A001000_tensor.bin",
+      "size": 110592
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A001001_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A001001_tensor.bin",
+      "size": 69120
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A001002_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A001002_tensor.bin",
+      "size": 110592
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A001003_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A001003_tensor.bin",
+      "size": 110592
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A001004_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A001004_tensor.bin",
+      "size": 110592
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A001005_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A001005_tensor.bin",
+      "size": 110592
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A001006_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A001006_tensor.bin",
+      "size": 110592
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A001007_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A001007_tensor.bin",
+      "size": 15925248
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A001008_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A001008_tensor.bin",
+      "size": 15925248
+    },
+    {
+      "jsonPath": ".ggml_cache/batch_1/A001009_tensor.json",
+      "binaryPath": ".ggml_cache/batch_1/A001009_tensor.bin",
+      "size": 110592
+    }
+  ],
+  "totalSize": 45521472,
+  "averageComplexity": 41.611111111111114
+}

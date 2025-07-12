@@ -1,0 +1,44 @@
+graph TB
+    subgraph "GGML Core"
+        G1[Tensor Operations]
+        G2[Memory Management]
+        G3[Compute Kernels]
+    end
+    
+    subgraph "Agent Zero Integration"
+        A1[Agent Definitions]
+        A2[Behavior Scripts]
+        A3[Runtime Connectors]
+        A4[Communication Protocols]
+    end
+    
+    subgraph "Bolt.diy Integration"
+        B1[Development Server]
+        B2[Live Reload]
+        B3[IDE Extensions]
+        B4[CLI Tools]
+    end
+    
+    subgraph "OpenCog Integration"
+        O1[AtomSpace Sync]
+        O2[Scheme Generation]
+        O3[Reasoning Queries]
+        O4[Hypergraph Embedding]
+    end
+    
+    G1 --> A1
+    G2 --> A2
+    G3 --> A3
+    
+    G1 --> B1
+    G2 --> B2
+    
+    A1 --> O1
+    A2 --> O2
+    A3 --> O3
+    A4 --> O4
+    
+    style G1 fill:#e3f2fd
+    style A1 fill:#e8f5e8
+    style B1 fill:#fff3e0
+    style O1 fill:#fce4ec
