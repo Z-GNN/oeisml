@@ -55,7 +55,7 @@ class AtomSpaceSynchronizer {
     // Create concept atoms for each cognitive kernel
     Object.entries(meshTopology.nodes).forEach(([nodeId, nodeData]) => {
       const conceptAtom = this.createConceptAtom(nodeId, nodeData, attentionAllocation);
-      atoms.set(\`concept_\${nodeId}\`, conceptAtom);
+      atoms.set(`concept_${nodeId}`, conceptAtom);
       
       // Create predicate atoms for capabilities
       let nodeGrammarData = null;
@@ -69,7 +69,7 @@ class AtomSpaceSynchronizer {
       if (nodeGrammarData) {
         nodeGrammarData.agenticCapabilities?.forEach(capability => {
           const predicateAtom = this.createPredicateAtom(capability, nodeId);
-          atoms.set(\`predicate_\${capability}_\${nodeId}\`, predicateAtom);
+          atoms.set(`predicate_${capability}_${nodeId}`, predicateAtom);
         });
       }
     });
@@ -157,7 +157,7 @@ class AtomSpaceSynchronizer {
     atoms.forEach((atom, atomId) => {
       if (atom.type === 'PredicateNode' && atom.properties.associated_kernel) {
         const kernelId = atom.properties.associated_kernel;
-        const conceptAtomId = \`concept_\${kernelId}\`;
+        const conceptAtomId = `concept_${kernelId}`;
         
         if (atoms.has(conceptAtomId)) {
           const inheritanceLink = {
@@ -169,15 +169,15 @@ class AtomSpaceSynchronizer {
             }
           };
           
-          links.set(\`inheritance_\${atomId}_\${conceptAtomId}\`, inheritanceLink);
+          links.set(`inheritance_${atomId}_${conceptAtomId}`, inheritanceLink);
         }
       }
     });
     
     // Create similarity links for connected kernels
     Object.entries(meshTopology.edges).forEach(([edgeKey, edgeData]) => {
-      const sourceConceptId = \`concept_\${edgeData.source}\`;
-      const targetConceptId = \`concept_\${edgeData.target}\`;
+      const sourceConceptId = `concept_${edgeData.source}`;
+      const targetConceptId = `concept_${edgeData.target}`;
       
       if (atoms.has(sourceConceptId) && atoms.has(targetConceptId)) {
         const similarityLink = {
@@ -189,7 +189,7 @@ class AtomSpaceSynchronizer {
           }
         };
         
-        links.set(\`similarity_\${edgeData.source}_\${edgeData.target}\`, similarityLink);
+        links.set(`similarity_${edgeData.source}_${edgeData.target}`, similarityLink);
       }
     });
     

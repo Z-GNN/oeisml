@@ -1,0 +1,4880 @@
+{
+  "batchNumber": 1,
+  "grammarAdapters": {
+    "A000001": {
+      "sequenceId": "A000001",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY",
+        "ALG",
+        "GROUP",
+        "RING",
+        "SYM",
+        "INVARIANT",
+        "EQUIV"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "symmetry_detector",
+        "algebraic_analyzer",
+        "complexity_manager"
+      ]
+    },
+    "A000002": {
+      "sequenceId": "A000002",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A000003": {
+      "sequenceId": "A000003",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY",
+        "POLY",
+        "DEGREE",
+        "COEFF",
+        "ANALYTIC",
+        "SMOOTH",
+        "DIFF"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A000004": {
+      "sequenceId": "A000004",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "pattern_synthesizer",
+        "complexity_manager"
+      ]
+    },
+    "A000006": {
+      "sequenceId": "A000006",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY",
+        "PRIME",
+        "FACTOR",
+        "DIVISOR",
+        "DECOMP",
+        "FACTOR",
+        "MULT"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "number_theorist",
+        "complexity_manager"
+      ]
+    },
+    "A000007": {
+      "sequenceId": "A000007",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A000008": {
+      "sequenceId": "A000008",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A000009": {
+      "sequenceId": "A000009",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A001000": {
+      "sequenceId": "A001000",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A001001": {
+      "sequenceId": "A001001",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A001002": {
+      "sequenceId": "A001002",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A001003": {
+      "sequenceId": "A001003",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A001004": {
+      "sequenceId": "A001004",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A001005": {
+      "sequenceId": "A001005",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A001006": {
+      "sequenceId": "A001006",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A001007": {
+      "sequenceId": "A001007",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY",
+        "PRIME",
+        "FACTOR",
+        "DIVISOR",
+        "DECOMP",
+        "FACTOR",
+        "MULT"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "number_theorist",
+        "complexity_manager"
+      ]
+    },
+    "A001008": {
+      "sequenceId": "A001008",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY",
+        "POLY",
+        "DEGREE",
+        "COEFF",
+        "ANALYTIC",
+        "SMOOTH",
+        "DIFF"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    },
+    "A001009": {
+      "sequenceId": "A001009",
+      "agenticCapabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "grammarTokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ],
+      "behavioralPatterns": [
+        "complex_dynamics",
+        "emergent_behavior"
+      ],
+      "cognitiveRoles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ]
+    }
+  },
+  "agenticMappings": {
+    "A000001": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "symmetry_detector",
+        "algebraic_analyzer",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY",
+        "ALG",
+        "GROUP",
+        "RING",
+        "SYM",
+        "INVARIANT",
+        "EQUIV"
+      ]
+    },
+    "A000002": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    },
+    "A000003": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY",
+        "POLY",
+        "DEGREE",
+        "COEFF",
+        "ANALYTIC",
+        "SMOOTH",
+        "DIFF"
+      ]
+    },
+    "A000004": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "pattern_synthesizer",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    },
+    "A000006": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "number_theorist",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY",
+        "PRIME",
+        "FACTOR",
+        "DIVISOR",
+        "DECOMP",
+        "FACTOR",
+        "MULT"
+      ]
+    },
+    "A000007": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    },
+    "A000008": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    },
+    "A000009": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    },
+    "A001000": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    },
+    "A001001": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    },
+    "A001002": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    },
+    "A001003": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    },
+    "A001004": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    },
+    "A001005": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    },
+    "A001006": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    },
+    "A001007": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "number_theorist",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY",
+        "PRIME",
+        "FACTOR",
+        "DIVISOR",
+        "DECOMP",
+        "FACTOR",
+        "MULT"
+      ]
+    },
+    "A001008": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY",
+        "POLY",
+        "DEGREE",
+        "COEFF",
+        "ANALYTIC",
+        "SMOOTH",
+        "DIFF"
+      ]
+    },
+    "A001009": {
+      "capabilities": [
+        "advanced_reasoning",
+        "pattern_synthesis"
+      ],
+      "roles": [
+        "cognitive_orchestrator",
+        "complexity_manager"
+      ],
+      "tokens": [
+        "CTX",
+        "FRAME",
+        "SCOPE",
+        "TEMP",
+        "SEQ",
+        "ORDER",
+        "ATTN",
+        "FOCUS",
+        "PRIORITY"
+      ]
+    }
+  },
+  "cognitiveRules": {
+    "A000001": {
+      "sequenceId": "A000001",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ALG",
+          "leftHandSide": "ALG_EXPR",
+          "rightHandSide": [
+            "ALG_TERM",
+            "ALG_OP ALG_EXPR",
+            "COMPOSE(ALG_TERM, ALG_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "GROUP",
+          "leftHandSide": "GROUP_EXPR",
+          "rightHandSide": [
+            "GROUP_TERM",
+            "GROUP_OP GROUP_EXPR",
+            "COMPOSE(GROUP_TERM, GROUP_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "RING",
+          "leftHandSide": "RING_EXPR",
+          "rightHandSide": [
+            "RING_TERM",
+            "RING_OP RING_EXPR",
+            "COMPOSE(RING_TERM, RING_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SYM",
+          "leftHandSide": "SYM_EXPR",
+          "rightHandSide": [
+            "SYM_TERM",
+            "SYM_OP SYM_EXPR",
+            "COMPOSE(SYM_TERM, SYM_EXPR)"
+          ],
+          "semanticType": "structural",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "INVARIANT",
+          "leftHandSide": "INVARIANT_EXPR",
+          "rightHandSide": [
+            "INVARIANT_TERM",
+            "INVARIANT_OP INVARIANT_EXPR",
+            "COMPOSE(INVARIANT_TERM, INVARIANT_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "EQUIV",
+          "leftHandSide": "EQUIV_EXPR",
+          "rightHandSide": [
+            "EQUIV_TERM",
+            "EQUIV_OP EQUIV_EXPR",
+            "COMPOSE(EQUIV_TERM, EQUIV_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 4,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A000001",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY",
+            "semantic_ALG",
+            "semantic_GROUP",
+            "semantic_RING",
+            "semantic_SYM",
+            "semantic_INVARIANT",
+            "semantic_EQUIV"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A000002": {
+      "sequenceId": "A000002",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A000002",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A000003": {
+      "sequenceId": "A000003",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "POLY",
+          "leftHandSide": "POLY_EXPR",
+          "rightHandSide": [
+            "POLY_TERM",
+            "POLY_OP POLY_EXPR",
+            "COMPOSE(POLY_TERM, POLY_EXPR)"
+          ],
+          "semanticType": "algebraic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "DEGREE",
+          "leftHandSide": "DEGREE_EXPR",
+          "rightHandSide": [
+            "DEGREE_TERM",
+            "DEGREE_OP DEGREE_EXPR",
+            "COMPOSE(DEGREE_TERM, DEGREE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "COEFF",
+          "leftHandSide": "COEFF_EXPR",
+          "rightHandSide": [
+            "COEFF_TERM",
+            "COEFF_OP COEFF_EXPR",
+            "COMPOSE(COEFF_TERM, COEFF_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ANALYTIC",
+          "leftHandSide": "ANALYTIC_EXPR",
+          "rightHandSide": [
+            "ANALYTIC_TERM",
+            "ANALYTIC_OP ANALYTIC_EXPR",
+            "COMPOSE(ANALYTIC_TERM, ANALYTIC_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SMOOTH",
+          "leftHandSide": "SMOOTH_EXPR",
+          "rightHandSide": [
+            "SMOOTH_TERM",
+            "SMOOTH_OP SMOOTH_EXPR",
+            "COMPOSE(SMOOTH_TERM, SMOOTH_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "DIFF",
+          "leftHandSide": "DIFF_EXPR",
+          "rightHandSide": [
+            "DIFF_TERM",
+            "DIFF_OP DIFF_EXPR",
+            "COMPOSE(DIFF_TERM, DIFF_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A000003",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY",
+            "semantic_POLY",
+            "semantic_DEGREE",
+            "semantic_COEFF",
+            "semantic_ANALYTIC",
+            "semantic_SMOOTH",
+            "semantic_DIFF"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A000004": {
+      "sequenceId": "A000004",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "pattern_synthesizer"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "pattern_synthesizer"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "pattern_synthesizer"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "pattern_synthesizer"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "pattern_synthesizer"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "pattern_synthesizer"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "pattern_synthesizer"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "pattern_synthesizer"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "pattern_synthesizer"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A000004",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "pattern_synthesizer",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A000006": {
+      "sequenceId": "A000006",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIME",
+          "leftHandSide": "PRIME_EXPR",
+          "rightHandSide": [
+            "PRIME_TERM",
+            "PRIME_OP PRIME_EXPR",
+            "COMPOSE(PRIME_TERM, PRIME_EXPR)"
+          ],
+          "semanticType": "numerical",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FACTOR",
+          "leftHandSide": "FACTOR_EXPR",
+          "rightHandSide": [
+            "FACTOR_TERM",
+            "FACTOR_OP FACTOR_EXPR",
+            "COMPOSE(FACTOR_TERM, FACTOR_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "DIVISOR",
+          "leftHandSide": "DIVISOR_EXPR",
+          "rightHandSide": [
+            "DIVISOR_TERM",
+            "DIVISOR_OP DIVISOR_EXPR",
+            "COMPOSE(DIVISOR_TERM, DIVISOR_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "DECOMP",
+          "leftHandSide": "DECOMP_EXPR",
+          "rightHandSide": [
+            "DECOMP_TERM",
+            "DECOMP_OP DECOMP_EXPR",
+            "COMPOSE(DECOMP_TERM, DECOMP_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FACTOR",
+          "leftHandSide": "FACTOR_EXPR",
+          "rightHandSide": [
+            "FACTOR_TERM",
+            "FACTOR_OP FACTOR_EXPR",
+            "COMPOSE(FACTOR_TERM, FACTOR_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "MULT",
+          "leftHandSide": "MULT_EXPR",
+          "rightHandSide": [
+            "MULT_TERM",
+            "MULT_OP MULT_EXPR",
+            "COMPOSE(MULT_TERM, MULT_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 3,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A000006",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY",
+            "semantic_PRIME",
+            "semantic_FACTOR",
+            "semantic_DIVISOR",
+            "semantic_DECOMP",
+            "semantic_FACTOR",
+            "semantic_MULT"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A000007": {
+      "sequenceId": "A000007",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A000007",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A000008": {
+      "sequenceId": "A000008",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A000008",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A000009": {
+      "sequenceId": "A000009",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A000009",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A001000": {
+      "sequenceId": "A001000",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A001000",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A001001": {
+      "sequenceId": "A001001",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A001001",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A001002": {
+      "sequenceId": "A001002",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A001002",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A001003": {
+      "sequenceId": "A001003",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A001003",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A001004": {
+      "sequenceId": "A001004",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A001004",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A001005": {
+      "sequenceId": "A001005",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A001005",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A001006": {
+      "sequenceId": "A001006",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A001006",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A001007": {
+      "sequenceId": "A001007",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIME",
+          "leftHandSide": "PRIME_EXPR",
+          "rightHandSide": [
+            "PRIME_TERM",
+            "PRIME_OP PRIME_EXPR",
+            "COMPOSE(PRIME_TERM, PRIME_EXPR)"
+          ],
+          "semanticType": "numerical",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FACTOR",
+          "leftHandSide": "FACTOR_EXPR",
+          "rightHandSide": [
+            "FACTOR_TERM",
+            "FACTOR_OP FACTOR_EXPR",
+            "COMPOSE(FACTOR_TERM, FACTOR_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "DIVISOR",
+          "leftHandSide": "DIVISOR_EXPR",
+          "rightHandSide": [
+            "DIVISOR_TERM",
+            "DIVISOR_OP DIVISOR_EXPR",
+            "COMPOSE(DIVISOR_TERM, DIVISOR_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "DECOMP",
+          "leftHandSide": "DECOMP_EXPR",
+          "rightHandSide": [
+            "DECOMP_TERM",
+            "DECOMP_OP DECOMP_EXPR",
+            "COMPOSE(DECOMP_TERM, DECOMP_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FACTOR",
+          "leftHandSide": "FACTOR_EXPR",
+          "rightHandSide": [
+            "FACTOR_TERM",
+            "FACTOR_OP FACTOR_EXPR",
+            "COMPOSE(FACTOR_TERM, FACTOR_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "MULT",
+          "leftHandSide": "MULT_EXPR",
+          "rightHandSide": [
+            "MULT_TERM",
+            "MULT_OP MULT_EXPR",
+            "COMPOSE(MULT_TERM, MULT_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 3,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A001007",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY",
+            "semantic_PRIME",
+            "semantic_FACTOR",
+            "semantic_DIVISOR",
+            "semantic_DECOMP",
+            "semantic_FACTOR",
+            "semantic_MULT"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A001008": {
+      "sequenceId": "A001008",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "POLY",
+          "leftHandSide": "POLY_EXPR",
+          "rightHandSide": [
+            "POLY_TERM",
+            "POLY_OP POLY_EXPR",
+            "COMPOSE(POLY_TERM, POLY_EXPR)"
+          ],
+          "semanticType": "algebraic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "DEGREE",
+          "leftHandSide": "DEGREE_EXPR",
+          "rightHandSide": [
+            "DEGREE_TERM",
+            "DEGREE_OP DEGREE_EXPR",
+            "COMPOSE(DEGREE_TERM, DEGREE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "COEFF",
+          "leftHandSide": "COEFF_EXPR",
+          "rightHandSide": [
+            "COEFF_TERM",
+            "COEFF_OP COEFF_EXPR",
+            "COMPOSE(COEFF_TERM, COEFF_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ANALYTIC",
+          "leftHandSide": "ANALYTIC_EXPR",
+          "rightHandSide": [
+            "ANALYTIC_TERM",
+            "ANALYTIC_OP ANALYTIC_EXPR",
+            "COMPOSE(ANALYTIC_TERM, ANALYTIC_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SMOOTH",
+          "leftHandSide": "SMOOTH_EXPR",
+          "rightHandSide": [
+            "SMOOTH_TERM",
+            "SMOOTH_OP SMOOTH_EXPR",
+            "COMPOSE(SMOOTH_TERM, SMOOTH_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "DIFF",
+          "leftHandSide": "DIFF_EXPR",
+          "rightHandSide": [
+            "DIFF_TERM",
+            "DIFF_OP DIFF_EXPR",
+            "COMPOSE(DIFF_TERM, DIFF_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A001008",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY",
+            "semantic_POLY",
+            "semantic_DEGREE",
+            "semantic_COEFF",
+            "semantic_ANALYTIC",
+            "semantic_SMOOTH",
+            "semantic_DIFF"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    },
+    "A001009": {
+      "sequenceId": "A001009",
+      "productions": [
+        {
+          "token": "CTX",
+          "leftHandSide": "CTX_EXPR",
+          "rightHandSide": [
+            "CTX_TERM",
+            "CTX_OP CTX_EXPR",
+            "COMPOSE(CTX_TERM, CTX_EXPR)"
+          ],
+          "semanticType": "context",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FRAME",
+          "leftHandSide": "FRAME_EXPR",
+          "rightHandSide": [
+            "FRAME_TERM",
+            "FRAME_OP FRAME_EXPR",
+            "COMPOSE(FRAME_TERM, FRAME_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SCOPE",
+          "leftHandSide": "SCOPE_EXPR",
+          "rightHandSide": [
+            "SCOPE_TERM",
+            "SCOPE_OP SCOPE_EXPR",
+            "COMPOSE(SCOPE_TERM, SCOPE_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "TEMP",
+          "leftHandSide": "TEMP_EXPR",
+          "rightHandSide": [
+            "TEMP_TERM",
+            "TEMP_OP TEMP_EXPR",
+            "COMPOSE(TEMP_TERM, TEMP_EXPR)"
+          ],
+          "semanticType": "temporal",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "SEQ",
+          "leftHandSide": "SEQ_EXPR",
+          "rightHandSide": [
+            "SEQ_TERM",
+            "SEQ_OP SEQ_EXPR",
+            "COMPOSE(SEQ_TERM, SEQ_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ORDER",
+          "leftHandSide": "ORDER_EXPR",
+          "rightHandSide": [
+            "ORDER_TERM",
+            "ORDER_OP ORDER_EXPR",
+            "COMPOSE(ORDER_TERM, ORDER_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "ATTN",
+          "leftHandSide": "ATTN_EXPR",
+          "rightHandSide": [
+            "ATTN_TERM",
+            "ATTN_OP ATTN_EXPR",
+            "COMPOSE(ATTN_TERM, ATTN_EXPR)"
+          ],
+          "semanticType": "attentional",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "FOCUS",
+          "leftHandSide": "FOCUS_EXPR",
+          "rightHandSide": [
+            "FOCUS_TERM",
+            "FOCUS_OP FOCUS_EXPR",
+            "COMPOSE(FOCUS_TERM, FOCUS_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        },
+        {
+          "token": "PRIORITY",
+          "leftHandSide": "PRIORITY_EXPR",
+          "rightHandSide": [
+            "PRIORITY_TERM",
+            "PRIORITY_OP PRIORITY_EXPR",
+            "COMPOSE(PRIORITY_TERM, PRIORITY_EXPR)"
+          ],
+          "semanticType": "generic",
+          "agenticRole": "cognitive_orchestrator"
+        }
+      ],
+      "semanticActions": {
+        "advanced_reasoning": {
+          "name": "advanced_reasoning",
+          "inputTypes": [
+            "multiple_sequences",
+            "context",
+            "constraints"
+          ],
+          "outputType": "inference",
+          "preconditions": [
+            "high_attention_available",
+            "sufficient_context",
+            "adequate_memory"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "advanced_reasoning_kernel"
+        },
+        "pattern_synthesis": {
+          "name": "pattern_synthesis",
+          "inputTypes": [
+            "patterns",
+            "context",
+            "goals"
+          ],
+          "outputType": "synthesized_pattern",
+          "preconditions": [
+            "high_attention_available"
+          ],
+          "effects": [
+            "knowledge_updated",
+            "attention_redistributed",
+            "memory_strengthened"
+          ],
+          "implementation": "pattern_synthesis_kernel"
+        }
+      },
+      "pragmaticConstraints": {
+        "attention_limits": {
+          "max_concurrent_processes": 2,
+          "attention_decay_rate": 0.95,
+          "focus_threshold": 0.1
+        },
+        "memory_constraints": {
+          "max_active_patterns": 50,
+          "consolidation_threshold": 0.7,
+          "forgetting_rate": 0.02
+        },
+        "processing_constraints": {
+          "max_recursion_depth": 10,
+          "timeout_threshold": 1000,
+          "complexity_limit": 4
+        }
+      },
+      "cognitiveBindings": {
+        "memory_bindings": {
+          "episodic": "episodic_A001009",
+          "semantic": [
+            "semantic_CTX",
+            "semantic_FRAME",
+            "semantic_SCOPE",
+            "semantic_TEMP",
+            "semantic_SEQ",
+            "semantic_ORDER",
+            "semantic_ATTN",
+            "semantic_FOCUS",
+            "semantic_PRIORITY"
+          ],
+          "procedural": [
+            "procedure_advanced_reasoning",
+            "procedure_pattern_synthesis"
+          ]
+        },
+        "attention_bindings": {
+          "focal_attention": "cognitive_orchestrator",
+          "peripheral_attention": [
+            "CTX",
+            "FRAME",
+            "SCOPE"
+          ],
+          "inhibited_attention": []
+        },
+        "motor_bindings": {
+          "cognitive_actions": [
+            "advanced_reasoning",
+            "pattern_synthesis"
+          ],
+          "behavioral_outputs": [
+            "complex_dynamics",
+            "emergent_behavior"
+          ]
+        }
+      }
+    }
+  }
+}

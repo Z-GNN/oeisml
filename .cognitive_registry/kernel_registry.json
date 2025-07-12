@@ -1,0 +1,2779 @@
+{
+  "A000001": {
+    "shape": [
+      16,
+      10,
+      12,
+      9,
+      12,
+      10
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      5,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ]
+  },
+  "A000002": {
+    "shape": [
+      16,
+      12,
+      12,
+      11
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A000003": {
+    "shape": [
+      15,
+      7,
+      11,
+      6,
+      9,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      5,
+      7,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ]
+  },
+  "A000004": {
+    "shape": [
+      8,
+      6,
+      10,
+      5
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      5,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A000005": {
+    "shape": [
+      16,
+      12,
+      12,
+      11,
+      12,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry",
+      "polynomial_degree",
+      "analytic_properties"
+    ]
+  },
+  "A000006": {
+    "shape": [
+      15,
+      7,
+      11,
+      6,
+      10,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      5,
+      5,
+      7,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ]
+  },
+  "A000007": {
+    "shape": [
+      16,
+      8,
+      12,
+      7
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      7
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A000008": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A000009": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A000010": {
+    "shape": [
+      16,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization",
+      "algebraic_structure",
+      "symmetry",
+      "polynomial_degree",
+      "analytic_properties"
+    ]
+  },
+  "A001000": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A001001": {
+    "shape": [
+      16,
+      10,
+      12,
+      9
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A001002": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A001003": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A001004": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A001005": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A001006": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A001007": {
+    "shape": [
+      16,
+      12,
+      12,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ]
+  },
+  "A001008": {
+    "shape": [
+      16,
+      12,
+      12,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ]
+  },
+  "A001009": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A002000": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A002001": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A002002": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A002003": {
+    "shape": [
+      16,
+      12,
+      12,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "polynomial_degree",
+      "analytic_properties"
+    ]
+  },
+  "A002004": {
+    "shape": [
+      15,
+      7,
+      11,
+      6
+    ],
+    "factorization": [
+      2,
+      3,
+      3,
+      5,
+      7,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A002005": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A002006": {
+    "shape": [
+      16,
+      10,
+      12,
+      9
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A002007": {
+    "shape": [
+      16,
+      10,
+      12,
+      9
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A002008": {
+    "shape": [
+      16,
+      11,
+      12,
+      10
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      5,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A002009": {
+    "shape": [
+      16,
+      11,
+      12,
+      10
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      5,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A003000": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A003001": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A003002": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A003003": {
+    "shape": [
+      16,
+      8,
+      12,
+      7
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      7
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A003004": {
+    "shape": [
+      16,
+      8,
+      12,
+      7
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      7
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A003005": {
+    "shape": [
+      16,
+      8,
+      12,
+      7
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      7
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A003006": {
+    "shape": [
+      16,
+      11,
+      12,
+      10
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      5,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A003007": {
+    "shape": [
+      13,
+      7,
+      11,
+      6
+    ],
+    "factorization": [
+      2,
+      3,
+      7,
+      11,
+      13
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A003008": {
+    "shape": [
+      13,
+      7,
+      11,
+      6
+    ],
+    "factorization": [
+      2,
+      3,
+      7,
+      11,
+      13
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A003009": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A004000": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A004001": {
+    "shape": [
+      16,
+      11,
+      12,
+      10
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      5,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A004002": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A004003": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A004004": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A004005": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A004006": {
+    "shape": [
+      16,
+      11,
+      12,
+      10,
+      12,
+      11
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      5,
+      11,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ]
+  },
+  "A004007": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A004008": {
+    "shape": [
+      16,
+      10,
+      12,
+      9
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A004009": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A005000": {
+    "shape": [
+      15,
+      7,
+      11,
+      6
+    ],
+    "factorization": [
+      2,
+      3,
+      3,
+      5,
+      7,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A005001": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A005002": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A005003": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A005004": {
+    "shape": [
+      16,
+      8,
+      12,
+      7
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      7
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A005005": {
+    "shape": [
+      16,
+      8,
+      12,
+      7
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      7
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A005006": {
+    "shape": [
+      12,
+      7,
+      11,
+      6
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      3,
+      3,
+      7,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A005007": {
+    "shape": [
+      13,
+      7,
+      11,
+      6
+    ],
+    "factorization": [
+      2,
+      3,
+      7,
+      11,
+      13
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A005008": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A005009": {
+    "shape": [
+      16,
+      12,
+      12,
+      11
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A006000": {
+    "shape": [
+      16,
+      12,
+      12,
+      11
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A006001": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A006002": {
+    "shape": [
+      16,
+      11,
+      12,
+      10
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      5,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A006003": {
+    "shape": [
+      16,
+      12,
+      12,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ]
+  },
+  "A006004": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A006005": {
+    "shape": [
+      16,
+      9,
+      12,
+      8,
+      12,
+      10
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "primality",
+      "factorization"
+    ]
+  },
+  "A006006": {
+    "shape": [
+      16,
+      10,
+      12,
+      9
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A006007": {
+    "shape": [
+      16,
+      10,
+      12,
+      9
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A006008": {
+    "shape": [
+      16,
+      10,
+      12,
+      9,
+      12,
+      10
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      5,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "algebraic_structure",
+      "symmetry"
+    ]
+  },
+  "A006009": {
+    "shape": [
+      16,
+      10,
+      12,
+      9
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A007000": {
+    "shape": [
+      16,
+      9,
+      12,
+      8,
+      11,
+      7
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      7,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience",
+      "recursion",
+      "golden_ratio"
+    ]
+  },
+  "A007001": {
+    "shape": [
+      14,
+      7,
+      11,
+      6
+    ],
+    "factorization": [
+      2,
+      2,
+      3,
+      7,
+      7,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A007002": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A007003": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A007004": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A007005": {
+    "shape": [
+      15,
+      7,
+      11,
+      6
+    ],
+    "factorization": [
+      2,
+      3,
+      3,
+      5,
+      7,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A007006": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A007007": {
+    "shape": [
+      16,
+      12,
+      12,
+      11
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A007008": {
+    "shape": [
+      16,
+      12,
+      12,
+      11
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A007009": {
+    "shape": [
+      16,
+      10,
+      12,
+      9
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A008000": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A008001": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A008002": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A008003": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A008004": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A008005": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A008006": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A008007": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A008008": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A008009": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A009000": {
+    "shape": [
+      16,
+      9,
+      12,
+      8
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A009001": {
+    "shape": [
+      16,
+      8,
+      12,
+      7
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      7
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A009002": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A009003": {
+    "shape": [
+      16,
+      10,
+      12,
+      9
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      5
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A009004": {
+    "shape": [
+      15,
+      7,
+      11,
+      6
+    ],
+    "factorization": [
+      2,
+      3,
+      3,
+      5,
+      7,
+      11
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A009005": {
+    "shape": [
+      16,
+      8,
+      12,
+      7
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      7
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A009006": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A009007": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A009008": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  },
+  "A009009": {
+    "shape": [
+      16,
+      12,
+      12,
+      12
+    ],
+    "factorization": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "semanticMapping": [
+      "context",
+      "time",
+      "salience"
+    ]
+  }
+}
